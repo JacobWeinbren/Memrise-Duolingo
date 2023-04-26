@@ -34,10 +34,13 @@ def addWords(browser):
     if exists:
         title = browser.find_element(By.CSS_SELECTOR, ".pool-name").text
 
+        print(title)
+
         # Locate the directory containing the title
         for root, dirs, files in os.walk('storage'):
             for name in dirs:
-                if title == name.split('-')[1]:
+                print(name.split('-')[1].strip())
+                if title == name.split('-')[1].strip():
                     loc = os.path.join(root, name)
         
         # Read the CSV file with words
@@ -109,7 +112,7 @@ def main():
     
     # Navigate to the Memrise course and add words
     for i in range(0, 100):
-        browser.get('https://app.memrise.com/course/6403867/duolingo-hebrew-revised/edit/database/' + str(7456220 + i))
+        browser.get('https://app.memrise.com/course/6403867/duolingo-hebrew-revised/edit/database/' + str(7456930 + i))
         time.sleep(3)
         addWords(browser)
 
