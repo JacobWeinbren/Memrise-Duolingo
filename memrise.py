@@ -11,7 +11,7 @@ client = texttospeech.TextToSpeechClient(credentials=credentials)
 
 # Build the voice request, select the language code ("he-IL") and the ssml gender ("neutral")
 voice = texttospeech.VoiceSelectionParams(
-    language_code="he-IL", ssml_gender=texttospeech.SsmlVoiceGender.NEUTRAL
+    language_code="he-IL", name='he-IL-Standard-A'
 )
 
 # Select the type of audio file you want returned
@@ -20,9 +20,9 @@ audio_config = texttospeech.AudioConfig(
 )
 
 """Generate TTS audio for a word and save it to a file using Google TTS."""
-def get_sound(word, meaning, file, index):
+def get_sound(word, meaning, niqqud, file, index):
     # Set the text input to be synthesized
-    synthesis_input = texttospeech.SynthesisInput(text=word)
+    synthesis_input = texttospeech.SynthesisInput(text=niqqud)
 
     # Perform the text-to-speech request on the text input with the selected
     # voice parameters and audio file type
@@ -45,12 +45,17 @@ with open(csv_file, mode='r', encoding='utf-8') as csvfile:
     data = [row for row in reader]
 
 categories = {}
+niqqud = {}
 
 # Group words by category
 for item in data:
     if item['Title'] not in categories:
         categories[item['Title']] = []
-    categories[item['Title']].append([item['Word'], item['Meaning']])
+    categories[item['Title']].append({
+        'word': item['Word'],
+        'meaning': item['Meaning'], 
+        'niqqud': item['Niqqud']
+        })
 
 # Loop through categories and create output folders
 for index, category in enumerate(categories):
@@ -61,12 +66,14 @@ for index, category in enumerate(categories):
     with open(output_folder + '/' + category + '.csv', 'w') as out:
         csv_out = csv.writer(out)
         csv_out.writerow(['Word', 'Meaning'])
-        csv_out.writerows(categories[category])
+        for word in categories[category]:
+            csv_out.writerow([word['word'], word['meaning']])
 
     # Generate TTS audio for each word in the category
-    for index, word in enumerate(categories[category]):
-        simplified_word = re.sub("[\(\[].*?[\)\]]", "", word[0]).strip()
-        meaning = re.sub("[\(\[].*?[\)\]]", "", word[1]).strip()
-        output_file = os.path.join(output_folder, f"{index}-{simplified_word}.mp3")
+    for index, item in enumerate(categories[category]):
+        word = re.sub("[\(\[].*?[\)\]]", "", item['word']).strip()
+        meaning = re.sub("[\(\[].*?[\)\]]", "", item['meaning']).strip()
+        niqqud = item['niqqud']
+        output_file = os.path.join(output_folder, f"{index}-{word}.mp3")
         if not os.path.exists(output_file):
-            get_sound(simplified_word, meaning, output_folder, index)
+            get_sound(word, meaning, niqqud, output_folder, index)

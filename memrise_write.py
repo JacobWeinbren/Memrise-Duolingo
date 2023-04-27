@@ -48,13 +48,13 @@ def addWords(browser):
             lines = f.read().replace("Word,Meaning\n", "")
 
         # Add words from CSV file to Memrise
-        browser.find_element(By.XPATH, '//button[@data-role="pool-bulk-add"]').click()
-        time.sleep(3)
-        browser.execute_script("""$("input[value='comma']").prop("checked", true);""")
-        browser.execute_script('$("textarea").get(0).value += `' + lines + '`;')
-        browser.execute_script('$("textarea").get(0).value += `\n`;')
-        browser.find_element(By.XPATH, '//a[@tabindex=4]').click()
-        time.sleep(3)
+        #browser.find_element(By.XPATH, '//button[@data-role="pool-bulk-add"]').click()
+        #time.sleep(3)
+        #browser.execute_script("""$("input[value='comma']").prop("checked", true);""")
+        #browser.execute_script('$("textarea").get(0).value += `' + lines + '`;')
+        #browser.execute_script('$("textarea").get(0).value += `\n`;')
+        #browser.find_element(By.XPATH, '//a[@tabindex=4]').click()
+        #time.sleep(3)
 
         # Add "Sound" column to Memrise
         browser.find_element(By.XPATH, '//button[@data-role="pool-column-add"]').click()
