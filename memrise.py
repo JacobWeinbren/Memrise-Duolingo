@@ -45,7 +45,6 @@ with open(csv_file, mode='r', encoding='utf-8') as csvfile:
     data = [row for row in reader]
 
 categories = {}
-niqqud = {}
 
 # Group words by category
 for item in data:

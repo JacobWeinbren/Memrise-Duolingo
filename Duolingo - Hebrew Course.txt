@@ -1,0 +1,2582 @@
+#separator:tab
+#html:false
+Father, Dad	אבא	aba
+Love	אהבה	ahavah
+Water	מים	mayim
+Wine	יין	yayin
+Dove	יונה	yonah
+Milk	חלב	khalav
+Bread	לחם	lekhem
+Mother, Mom	אמא	ima
+Hot (m.s)	חם	khum
+No, Not	לא	lo
+I	אני	ani
+He	הוא	hu
+She	היא	hi
+You (m.s)	אתה	atah
+You (f.s)	את	at
+Is It?	האם	haim
+Or	או	o
+Come, Comes (m.s - pres.) (Qal)	בא	ba
+Come, Comes (f.s - pres.) (Qal)	באה	ba'ah
+Love(s) (m.s - pres.) (Qal)	אוהב	ohev
+Love(s) (f.s - pres.) (Qal)	אוהבת	ohevet
+Dog	כלב	kelev
+King	מלך	melekh
+Boy	ילד	yeled
+Nut	אגוז	egoz
+Rice	אורז	orez
+Man	גבר	gever
+Road, Way	דרך	derekh
+Girl	ילדה	yal'dah
+Woman	אישה	ishah
+Truck	משאית	masaiyt
+Happy	שמח	sameakh
+Yes	כן	ken
+This (m)	זה	zeh
+This (f)	זאת	zot
+Walks, Goes (m.s - pres.) (Qal)	הולך	holekh
+Walks, Goes (f.s - pres.) (Qal)	הולכת	holekhet
+Eats (m.s - pres.) (Qal)	אוכל	okhel
+Eats (f.s - pres.) (Qal)	אוכלת	okhelet
+Sees (m.s - pres.) (Qal)	רואה	ro'eh
+Sees (f.s - pres.) (Qal)	רואה	ro'ah
+Drinks (m.s - pres.) (Qal)	שותה	shoteh
+Drinks (f.s - pres.) (Qal)	שותה	shotah
+Orange (Fruit)	תפוז	tapuz
+Apple	תפוח	tapuakh
+Fun	כיף	keif
+Book	ספר	sefer
+Peach	אפרסק	afarsek
+Newspaper	עיתון	iton
+Chicken (Food)	עוף	of
+Juice	מיץ	mitz
+Cake	עוגה	ugah
+Beautiful (m.s)	יפה	yafeh
+Sweet (m.s)	מתוק	matok
+Beautiful (f.s)	יפה	Y'fah
+Sad (m.s)	עצוב	atzuv
+Bad (m.s)	רע	ra
+Sour (m.s)	חמוץ	khamutz
+Good (m.s)	טוב	tov
+Tasty (m.s)	טעים	ta'im
+Reads (m.s - pres.) (Qal)	קורא	kore
+Reads (f.s - pres.) (Qal)	קוראת	koret
+Wants (m.s - pres.) (Qal)	רוצה	rotzeh
+Wants (f.s - pres.) (Qal)	רוצה	rotzah
+Hello	שלום	shalom
+Night	לילה	lai'lah
+Morning	בוקר	boker
+Evening	ערב	erev
+Thanks	תודה	todah
+Good luck	בהצלחה	b'hatzlakhah
+Thankyou	תודה	todah
+Thankyou Very Much	תודה רבה	todah rabah
+Hebrew	עברית	ivrit
+English	אנגלית	ang'lit
+Goodbye	להתראות	l'hit'raot
+How Are You?	מה נשמע?	mah nishma
+What's Happening?, What's Up?	מה קורה?	mah koreh
+How Are You? (m)	מה שלומך?	mah shlomekh
+How Are You? (f)	מה שלומך?	mah shlomkha
+Fine	בסדר	beseder
+Sorry	סליחה	s'likhah
+Please	בבקשה	b'vakashah
+You Are Welcome	אין בעד מה	ein b'ad mah
+Maybe, Perhaps	אולי	ulai
+Welcome (m)	ברוך הבא	barukh haba
+Welcome (f)	ברוך הבאה	barukh haba'ah
+My Name Is	קוראים לי	korim li
+Congratulations	מזל טוב	mazal tov
+Bon Appetit	בתיאבון	b'te'avon
+Have Fun! (2.m.s - fut.) (Nifal)	תהנו	tehanu
+Have Fun! (2.f.s - fut.) (Nifal)	תהני	tehani
+To Enjoy (Nifal)	להנות	lehanot
+Men	גברים	g'varim
+Children	ילדים	y'ladim
+Women	נשים	nashim
+We	אנחנו	anakhnu
+They (m)	הם	hem
+They (f)	הן	hen
+You (m.p)	אתם	atem
+You (f.p)	אתן	aten
+See (m.p - pres.) (Qal)	רואים	ro'im
+See (f.p - pres.) (Qal)	רואות	ro'ot
+There Is	יש	yesh
+There Is No	אין	ein
+To Me	לי	li
+To You (m.s)	לך	l'kha
+To You (f.s)	לך	lakh
+To Him	לו	lo
+To Her	לה	lah
+To Us	לנו	lanu
+To You (m.p)	לכם	lakhem
+To You (f.p)	לכן	lakhen
+To Them/They (m)	להם	lahem
+To Them/They (f)	להן	lahen
+To	ל	l'
+Happy (m.s)	שמח	sameakh
+Happy (f.s)	שמחה	s'mekha
+Happy (m.p)	שמחים	s'mekhim
+Happy (f.p)	שמחות	s'mekhot
+Sad (m.s)	עצוב	atzuv
+Sad (f.s)	עצובה	atzuvah
+Sad (m.p)	עצובים	atzuvim
+Sad (f.p)	עצובות	atzuvot
+Beautiful (m.s)	יפה	yafeh
+Beautiful (f.s)	יפה	yafah
+Beautiful (m.p)	יפים	yafim
+Beautiful (f.p)	יפות	yafot
+Tasty (m.s)	טעים	ta'im
+Tasty (f.s)	טעימה	t'ima
+Tasty (m.p)	טעימים	t'imim
+Tasty (f.p)	טעימות	t'imot
+Good (m.s)	טוב	tov
+Good (f.s)	טובה	tovah
+Good (m.p)	טובים	tovim
+Good (f.p)	טובות	tovot
+Bad (m.s)	רע	ra
+Bad (f.s)	רעה	ra'ah
+Bad (m.p)	רעים	ra'im
+Bad (f.p)	רעות	ra'ot
+Fish	דג	dag
+Coffee	קפה	kafeh
+Fruit	פרי	p'ri
+Sugar	סוכר	sukar
+Strawberry	תות	tut
+Meat	בשר	basar
+Soup	מרק	marak
+Oil	שמן	shemen
+Lemon	לימון	limon
+Sandwich	כריך	karikh
+Salt	מלח	melakh
+Beef	בקר	bakar
+Bottle	בקבוק	bakbuk
+Salad	סלט	salat
+Pineapple	אננס	ananas
+Chocolate	שוקולד	shokolad
+Olive	זית	zayit
+Plate	צלחת	tzalakhat
+Egg	ביצה	beitzal
+Lunch	ארוחת צהריים	arukhat tzaharim
+Breakfast	ארוחת בוקר	arukhat boker
+Dinner	ארוחת ערב	arukhat erev
+Pasta	פסטה	pastah
+Beer	בירה	birah
+Cheese	גבינה	g'vinah
+Tomato	עגבניה	ag'vaniyah
+Banana	בננה	banana
+Butter	חמאה	khem'ah
+Mushroom	פטרייה	pitriyah
+Pizza	פיצה	pitzah
+Hungry (m.s)	רעב	ra'ev
+To Eat (Qal)	לאכול	le'ekhol
+Drink (m.p - pres.) (Qal)	שותים	shotim
+Drink (f.p - pres.) (Qal)	שותות	shotot
+Want (m.p - pres.) (Qal)	רוצים	rotzim
+Want (f.p - pres.) (Qal)	רוצות	rotzot
+Cat	חתול	khatul
+Horse	סוס	sus
+Elephant	פיל	pil
+Duck	ברווז	bar'vaz
+Turtle	צב	tzav
+Donkey	חמור	khamor
+Crab	סרטן	sar'tan
+Spider	עכביש	akavish
+Bear	דוב	dov
+Mouse	עכבר	akh'bar
+Camel	גמל	gamal
+Lion	אריה	aryeh
+Eagle	נשר	nesher
+Fly	זבוב	z'vuv
+Insect	חרק	kherek
+Rabbit	ארנב	arnav
+Snake	נחש	nakhash
+Monkey	קוף	kof
+Tail	זנב	zanav
+Pet	חיית מחמד	khayat makhamad
+Owl	ינשוף	yanshuf
+Rooster	תרנגול	tar'n'gol
+Pig	חזיר	khazir
+Bird	ציפור	tzipor
+Animal	חיה	khayah
+Animals	חיות	khaiut
+Bee	דבורה	d'vorah
+Cow	פרה	parah
+Chicken (Animal)	תרנגולת	tar'n'golet
+To Bark (Qal)	לנבוח	lin'boakh
+English	Hebrew	Transliteration
+Apples	תפוחים	tapukhim
+Oranges	תפוזים	tapuzim
+Dogs	כלבים	k'lavim
+Cats	חתולים	khatulim
+Horses	סוסים	susim
+Newspapers	עיתונים	itonim
+Books	ספרים	s'farim
+Turtles	צבים	tzabim
+Elephants	פילים	pilim
+Birds	ציפורים	tziporim
+Sandwiches	כריכים	k'rikhim
+Ducks	ברווזים	bar'vazim
+Roads	דרכים	drakhim
+Plates	צלחות	tzalakhat
+Pets	חיות מחמד	khayot makh'mad
+Wines	יינות	yayinot
+Cheeses	גבינות	g'vinot
+Beers	בירות	be'erot
+Cakes	עוגות	ugot
+Lions	אריות	arayot
+Dogs (f.p)	כלבות	k'lavot
+Horses (f.p)	סוסות	susot
+Cats (f.p)	חתולות	khatulot
+Ducks (f.p)	ברווזות	bar'vazot
+Cows	פרות	parot
+Girls	ילדות	y'ladot
+Belongs (m.s)	שייך	shayakh
+My	שלי	sheli
+Your (m.s)	שלך	shel'kha
+Your (f.s)	שלך	shelakh
+His	שלו	shelo
+Her	שלה	shelah
+Your (m.p)	שלכם	shelakhem
+Your (f.p)	שלכן	shelakhen
+Our	שלנו	shelanu
+Their (m)	שלהם	shelahem
+Their (f)	שלהן	shelahen
+Of	של	shel
+Adjectives 1 (M.S)		
+English	Hebrew	Transliteration
+Small	קטן	katan  kar gavoa namukh karov rakhok arokh katzar iti mahir male reik yavesh ratov
+Big	גדול	gadol
+New	חדש	khadash
+Old (Objects)	ישן	yashan
+Hot	חם	kham
+Cold	קר	kar
+Tall, High	גבוה	gavoa
+Short, Low	נמוך	namukh
+Close	קרוב	karov
+Far, Distant	רחוק	rakhok
+Long	ארוך	arokh
+Short	קצר	katzar
+Slow	איטי	iti
+Fast	מהיר	mahir
+Full	מלא	male
+Empty	ריק	reik
+Dry	יבש	yavesh
+Wet	רטוב	ratov
+Need (m.s.)	צריך	tzarikh
+Me	אותי	oti
+Thee, You (m.s)	אותך	ot'kha
+Thee, You (f.s)	אותך	otakh
+Him	אותו	oto
+Her	אותה	otah
+Us	אותנו	otanu
+You (m.p)	אתכם	et'khem
+You (f.p)	אתכן	et'khen
+Them (m)	אותם	otam
+Them (f)	אותן	otan
+Tea	תה	teh
+Fork	מזלג	maz'leg
+Knife	סכין	sakin
+Menu	תפריט	tafrit
+Sauce, Gravy	רוטב	rotev
+Vegetable	ירק	yerek
+Pepper, Capsicum	פלפל	pil'pel
+Recipe	מתכון	matkon
+Honey	דבש	d'vash
+Kitchen	מטבח	mit'bakh
+Cucumber	מלפפון	m'laf'fon
+Carrot	גזר	gezer
+Candy	ממתק	mam'tak
+Watermelon	אבטיח	avatiakh
+Peanut	בוטן	boten
+Onion	בצל	batzal
+Grape	ענב	anav
+Avocado	אבוקדו	avokado
+Potato	תפוח אדמה	tapuakh adamah
+Beverage, Drink	משקה	mashkah
+Cherry	דובדבן	duvd'van
+Gum	מסטיק	mastik
+Mango	מנגו	mango
+Garlic	שום	shum
+Smell	ריח	reiakh
+Taste	טעם	ta'am
+Pot	סיר	sir
+Ingredients	מצרכים	mitzrakhim
+Flour	קמח	kemakh
+Meal	ארוחה	arukhah
+Cup, Glass	כוס	kos
+Napkin	מפית	mapit
+Spoon	כף	kaf
+Bowl	קערה	k'arah
+Teaspoon	כפית	kapit
+Restaurant	מסעדה	mis'adah
+Cookie	עוגייה	ugaiah
+Jam	ריבה	rivah
+Ice Cream	גלידה	g'lidah
+Vegetarian (m.s)	צמחוני	tzim'khoni
+Thirsty (m.s)	צמא	ta'ev
+Salty (m.s)	מלוח	maluakh
+Hot, Spicy (m.s)	חריף	kharif
+Bitter (m.s)	מר	mar
+To Cook, Boil (Piel)	לבשל	l'vashel
+To Bake (Qal)	לאפות	le'efot
+Coat	מעיל	m'il
+Pants	מכנסיים	mikh'nasayim
+Hat	כובע	kova
+Glasses	משקפיים	mishkafayim
+Sunglasses	משקפי שמש	mish'kfei shemesh
+Sock	גרב	gerev
+A Piece of Jewellery	תכשיט	takhshit
+Jeans	ג'ינס	jins
+Swimsuit	בגד ים	beged yam
+Jacket	ז'קט	jaket
+Sweater	סוודר	sveder
+Bracelet	צמיד	tzamid
+Scarf	צעיף	tza'if
+Pocket	כיס	kayas
+Shirt	חולצה	khultzah
+Shoe	נעל	na'al
+Skirt	חצאית	khatza'it
+Dress	שמלה	shimlah
+Suit	חליפה	khalifah
+Belt	חגורה	khagorah
+Glove	כפפה	k'fafah
+Ring	טבעת	taba'at
+Chain	שרשרת	sharsheret
+Costume	תחפושת	takhposhet
+Tie	עניבה	anivah
+To Wear, Put On (Qal)	ללבוש	lil'bosh
+To Wear, Put On (Shoes) (Qal)	לנעול	lin'ol
+To Wear (Headgear) (Qal)	לחבוש	lakh'bosh
+To Wear, Put On (Ring) (Qal)	לענוד	la'anod
+To Put (Qal)	לשים	lasim
+To Wear (Glasses) (Hifil)	להרכיב	l'har'kiv
+To Wear (Socks) (Qal)	לגרוב	lig'rov
+Writes (Qal)	כותב	kotev
+Swims (Qal)	שוחה	sokheh
+Hears (Qal)	שומע	shome'a
+Sleeps (Qal)	ישן	yashen
+Touches (Qal)	נוגע	noge'a
+Says (Qal)	אומר	omer
+Does (Qal)	עושה	oseh
+Works (Qal)	עובד	oved
+Finds, Encounters (Qal)	מוצא	motze
+Supports, Sustains (Qal)	תומך	tomekh
+Takes (Qal)	לוקח	lokeakh
+Knows (Qal)	יודע	yode'a
+Gives, Allows (Qal)	נותן	noten
+Buys, Purchases (Qal)	קונה	koneh
+Sells (Qal)	מוכר	mokher
+Writes, Lists (Qal)	רושם	roshem
+Closes, Turns Of (Light, Machine) (Qal)	סוגר	soger
+Opens, Turns On (Light, etc) (Qal)	פותח	poteakh
+Aches, Feels Pain (Qal)	כואב	ko'ev
+Thinks (Qal)	חושב	khoshev
+Returns, Comes Back (Qal)	חוזר	khozer
+Reads (Qal)	קורא	kore
+Guards, Keeps (Qal)	שומר	shomer
+Studies, Studies (Qal)	לומד	lomed
+Walks, Goes (Qal)	הולך	holekh
+Am Angry, Is Mad About... (Qal)	כועס	ko'es
+Includes (Qal)	כולל	kolel
+Remembers (Qal)	זוכר	zokher
+Runs (Qal)	רץ	ratz
+Sings (Qal)	שר	shar
+Rests (Qal)	נח	nakh
+Leaves (Qal)	עוזב	ozev
+Weighs; Considers (Qal)	שוקל	shokel
+Helps, Assists, Aids (Qal)	עוזר	ozer
+Hates, Abhors (Qal)	שונא	sone
+Signs, Seals, Finishes (Qal)	חותם	khotem
+Dances (Qal)	רוקד	roked
+Creates (Qal)	יוצר	yotzer
+Stands (Qal)	עומד	omed
+Cuts (Qal)	חותך	khotekh
+Sits, Settles (Qal)	יושב	yoshev
+Grows, Increases (Qal)	גדל	gadel
+Forgets (Qal)	שוכח	shokheakh
+Watches, Observes (Qal)	צופה	tzofeh
+Goes Out, Exits (Qal)	יוצא	yotze
+Stares (Qal)	בוהה	boheh
+Rents, Hires (Qal)	שוכר	sokher
+Sends, Dispatches (Qal)	שולח	sholeakh
+Checks, Examines (Qal)	בודק	bodek
+Breaks, Shatters (Qal)	שובר	shover
+Steals (Qal)	גונב	gonev
+Turns (Over/Into) (Qal)	הופך	hofekh
+Escapes, Runs Away (Qal)	בורח	boreakh
+Knows (Recognizes) (Hifil)	מכיר	makir
+Answers, Replies (Qal)	עונה	oneh
+Colour	צבע	tzeva
+Red (m.s)	אדום	adom
+Orange (Colour) (m.s)	כתום	katom
+Black (m.s)	שחור	sh'khor
+White (m.s)	לבן	leven
+Blue (m.s)	כחול	kakhol
+Yellow (m.s)	צהוב	tzahov
+Green (m.s)	ירוק	yarok
+Grey (m.s)	אפור	afor
+Brown (m.s)	חום	khum
+Pink (m.s)	ורוד	yarod
+Colourful (m.s)	צבעוני	tziv'oni
+Purple (m.s)	סגול	sagol
+To Paint, Colour, Tint (Qal)	לצבוע	litz'boa
+In	ב...	b'-
+From	מ...	mi-
+For	בשביל	bish'vili
+With	עם	im
+Next/Adjacent To	ליד	l'yad
+Inside	בתוך	b'tokh
+Against	נגד	neged
+With Me	איתי	iti
+With Her	איתה	itah
+With Him	איתו	ito
+With Us	איתנו	itanu
+Number	מספר	mispar
+Zero; Nothing	אפס	ofes
+One (m)	אחד	ekhad
+Two (m)	שניים	sh'tayim
+Three (m)	שלושה	sh'loshah
+Four (m)	ארבעה	ar'ba'ah
+Five (m)	חמישה	khamishah
+Six (m)	שישה	shishah
+Seven (m)	שבעה	shiv'ah
+Eight (m)	שמונה	sh'monah
+Nine (m)	תשעה	tish'ah
+Ten (m)	עשרה	asarah
+Eleven (m)	אחד עשר	akhad asar
+Twelve (m)	שנים עשר	sh'neim asar
+Thirteen (m)	שלושה עשר	sh'loshah asar
+One (f)	אחת	akhat
+Two (f)	שתיים	sh'nayim
+Three (f)	שלוש	shilush
+Four (f)	ארבע	arba
+Five (f)	חמש	khamesh
+Six (f)	שש	shesh
+Seven (f)	שבע	save'a
+Eight (f)	שמונה	sh'moneh
+Nine (f)	תשע	tesha
+Ten (f)	עשר	eser
+Eleven (f)	אחת עשרה	akhat esreh
+Twelve (f)	שתים עשרה	sh'teim esreh
+Thirteen (f)	שלוש עשרה	sh'losh esreh
+More	יותר	yoter
+Less	פחות	pikhut
+Too Much/Many	יותר מדי	yoter midai
+A lot, Many, Much	הרבה	harbe
+Too, Overly	מדי	midai
+Twenty	עשרים	esr'im
+To Count (Qal)	לספור	lis'por
+Answer, Reply, Solution	תשובה	t'shuvah
+Question, Query; Matter (colloq.)	שאלה	sh'elah
+What?	מה?	mah
+Where?	איפה?	eifo
+Why?	למה?	lamah
+How Much/Many?	כמה?	kamah
+Who?	מי?	mi
+Where From?	מאיפה?	me'eifoh
+When?	מתי?	matai
+How?	איך?	eikh
+Whose?	של מי?	shel mi
+Which? (m)	איזה?	eizeh
+Which? (f)	איזו?	eizoh
+In Which?	באיזה?	b'eizah
+With Who?	עם מי?	im mi
+Where To?	לאן?	l'an
+To Who?	למי?	l'mi
+From Who?	ממי?	mimi
+What For?	בשביל מה?	bash'vil mah
+Whom?	את מי?	eilu
+Which? (pl.)	אילו?	eilu
+To Ask (Qal)	לשאול	lish'ol
+To Answer, Reply (Qal)	לענות	la'anot
+This (m) (formal)	הזה	hazeh
+Everyone (m)	כולם	kulam
+Any (Neg. Sentence)	שום	shum
+Something	משהו	mashehu
+Someone, Somebody	מישהו	mishehu
+Everything, All	הכל	hakol
+This (f) (formal)	הזאת	hazot
+Everyone (f)	כולן	kulan
+Other (One) (m.s)	אחר	akher
+So, Thus	ככה	kakhah
+These	האלו	haelu
+All Of Them (f.p)	כולן	kulan
+Nobody, Not One	אף אחד	af ekhad
+These (Pron)	אלה	eleh
+All, Any, Every	כל	kol
+Like This	כזה	kazeh
+These	אלו	elu
+Nothing	שום דבר	shum davar
+Nothing But	שום דבר מלבד	shum daver mil'vad
+Both	שניהם	sh'neihem
+The Same	אותו ה-	oto b-
+Student	תלמיד	talmid
+Doctor	רופא	rofe
+Author	סופר	super
+Profession	מקצוע	miktzo'a
+Model	דוגמן	dugman
+Director	במאי	bamai
+Career	קריירה	kar'yerah
+Crew, Team, Staff	צוות	zevet
+Artist	אמן	aman
+Secretary	מזכיר	mazkir
+Painter	צייר	tzayar
+Judge, Referee	שופט	shofet
+Lawyer	עורך דין	orekh din
+Worker	פועל	po'el
+Policeman	שוטר	shoter
+Officer	קצין	katzin
+Journalist	עיתונאי	itona'i
+Soldier	חייל	khayal
+Captain	קברניט	kabarnit
+Boss	בוס	bos
+Guard	שומר	shumar
+Actor, Player	שחקן	sakh'kan
+Driver	נהג	nehag
+Cook	טבח	tevakh
+Waiter	מלצר	mel'tzar
+Engineer	מהנדס	m'handes
+Architect	אדריכל	ad'rikhal
+Farmer	חקלאי	khakla'i
+Work	עבודה	avodah
+Police	משטרה	mishtarah
+Internship, Apprenticeship	התמחות	hit'makhut
+Already	כבר	k'var
+If	אם	im
+But	אבל	aval
+Because	כי	ki
+Still	עדיין	adayin
+Also	גם	gam
+Even though	אף על פי	af al pi
+Despite	למרות	lim'rot
+Only	רק	rak
+Except for...	חוץ מ...	khutz
+While	בזמן ש...	baz'man sh...
+When	מתי ש...	matai sh...
+So	אז	az
+So, That's Why	לכן	lakhen
+When	כש...	k'she
+After That	אחרי ש	akharei sh
+But, However, Nevertheless	אך	akh
+Before That	לפני ש	lif'nei sh
+But, Only, However	אלא	ela
+Also, Even	אף	af
+Even	אפילו	afilu
+Outside	בחוץ	bakhutz
+Inside	בפנים	bifnim
+Across, Against (Prep)	מול	mul
+Between (Prep)	בין	bein
+To (Prep)	אל	el
+On (Prep)	על	al
+Before (Prep)	לפני	lifnei
+After (Prep)	אחרי	akharei
+At, In the Possession Of (Prep)	אצל	etzel
+Behind (Prep)	מאחורי	me'akhorei
+Below, Underneath (Prep)	מתחת	mitakhat
+Above (Prep)	מעל	me'al
+Only (Stressed; Emphatic)	אך ורק	akh v'rak
+Without (Conj)	בלי	b'li
+To Be Found, Present (Nifal)	נמצא	nim'tza
+Asks For, Requests (Piel)	מבקש	m'vakesh
+Pays (Piel)	משלם	m'shalem
+Misses (Not Emotion) (Piel)	מפספס	m'fas'fes
+Plays, Acts (Piel)	משחק	m'sakhek
+Tells, Relates (Piel)	מספר	m'saper
+Designs, Forms, Shapes (Piel)	מעצב	m'atzev
+Changes (Piel)	משנה	m'shaneh
+Tries, Attempts (Piel)	מנסה	m'naseh
+Hopes (Piel)	מקווה	m'kaveh
+Searches, Looking For (Piel)	מחפש	m'khapes
+Grows, Raises (Piel)	מגדל	m'gadel
+Signals, Indicates (Piel)	מסמן	m'samen
+Wishes, Congratulates (Piel)	מאחל	m'akhel
+Stirs, Mixes, Messes Up (Piel)	מערבב	m'ar'bev
+Respects, Honours (Piel)	מכבד	m'khabed
+Arranges, Organizes, Tidies (Piel)	מסדר	m'sader
+Dries, Dries Up (Transitive) (Piel)	מייבש	m'yabesh
+Heats, Heats/Warms Up (Piel)	מחמם	m'khamen
+Imports (Piel)	מייבא	m'yabe
+Fills, Fills Out (Piel)	ממלא	m'male
+Wastes, Squanders (Piel)	מבזבז	m'vaz'bez
+Visits (Piel)	מבקר	m'vaker
+Receives (Piel)	מקבל	m'kabel
+Pities, Has Mercy (Piel)	מרחם	m'rakhem
+Envies, Is Jealous Of... (Piel)	מקנא	m'kane
+Climbs (Piel)	מטפס	m'tapes
+Wins, Overcomes, Beats (Piel)	מנצח	m'natzeakh
+Trains (Someone) (Piel)	מאמן	m'amen
+Lies, Deceives (Piel)	משקר	m'shaker
+Is Running Late (Piel)	מאחר	m'akher
+Waits For, Awaits (Piel)	מחכה	m'khakeh
+Satisfies; Supplies (Piel)	מספק	m'sapek
+Finishes, Completes (Piel)	מסיים	m'sayem
+Convinces, Persuades (Piel)	משכנע	m'shakh'nea
+Loses, Destroys (Piel)	מאבד	m'abed
+Photographs, Shoots; Films (Piel)	מצלם	m'tzalem
+Adopts (Piel)	מאמץ	m'ametz
+Is Scared Of... (Piel)	מפחד	m'fakhed
+Approves, Confirms (Piel)	מאשר	m'asher
+Discovers (Piel)	מגלה	m'galeh
+Shaves (Transitive) (Piel)	מגלח	m'galeakh
+Renews, Innovates (Piel)	מחדש	m'khadesh
+Blesses, Congratulates, Greets (Piel)	מברך	m'varekh
+Describes, Imagines (Piel)	מתאר	m'ta'er
+Fixes, Repairs, Corrects (Piel)	מתקן	m'taken
+Day	יום	y'om
+Sunday	יום ראשון	yom ri'shon
+Monday	יום שני	yom sheni
+Tuesday	יום שלישי	yom sh'lishi
+Wednesday	יום רביעי	yom r'vi'i
+Thursday	יום חמישי	yom khamishi
+Friday	יום שישי	yom shishi
+Time	זמן	z'man
+Week	שבוע	shavu'a
+Month	חודש	khodesh
+Calendar	לוח שנה	luakh shanah
+Date	תאריך	ta'arikh
+Spring	אביב	aviv
+Winter	חורף	khoref
+Autumn, Fall	סתיו	staiv
+Summer	קיץ	kayitz
+Midnight	חצות	khatzot
+Birthday	יום הולדת	yom huledet
+Moment	רגע	rega
+Decade	עשור	asor
+Era	עידן	idan
+Age	גיל	gil
+Generation	דור	dor
+Two years	שנתיים	sh'natiyim
+Two months	חודשיים	khad'shiyim
+Two weeks	שבועיים	sh'vu'iyim
+Two days	יומיים	yomiyim
+Two hours	שעתיים	sha'atayim
+Process, Development	מהלך	mahalakh
+Present	הווה	hoveh
+Afternoon	אחר הצהריים	akhar hatzaharayom
+January	ינואר	yanu'ar
+February	פברואר	febru'ar
+March	מרץ	martz
+April	אפריל	april
+May	מאי	ma'i
+June	יוני	yuni
+July	יולי	yuli
+August	אוגוסט	ogust
+September	ספטמבר	september
+October	אוקטובר	ok'tober
+November	נובמבר	november
+December	דצמבר	detzember
+Saturday, Shabbat	שבת	yom shabat
+Hour	שעה	sha'ah
+Minute	דקה	dakah
+Second	שניה	sh'niyah
+Season	עונה	onah
+Period	תקופה	t'kufah
+Year	שנה	shanah
+Century	מאה	hame'ah
+Party, Gathering	מסיבה	m'sibah
+Next, Nearest, Coming (m.s)	הבאה	bava'ah
+Today	היום	hayom
+Tomorrow	מחר	makhar
+Yesterday	אתמול	etmol
+A Bit	קצת	k'tzat
+Always	תמיד	tamid
+Now	עכשיו	akhshav
+In Two Days	מחרתיים	makharatayim
+Nowadays	כיום	kayom
+The Day Before Yesterday	שלשום	shil'shom
+Till, Until; To, As Far As	עד	ad
+Never	אף פעם	af pa'am
+Tired	עייף	ayef
+Regular, Ordinary	רגיל	ragil
+Real, True	אמיתי	amiti
+Special	מיוחד	m'yukhad
+Old (People)	זקן	zaken
+Young	צעיר	tza'ir
+Open	פתוח	patuakh
+Closed	סגור	sagur
+Clean	נקי	naki
+Dirty	מלוכלך	m'lukh'lakh
+Important	חשוב	khashuv
+Central	מרכזי	mer'kazi
+Cheap	זול	zol
+Expensive	יקר	yakar
+Strong	חזק	khazak
+Weak	חלש	khalash
+Poor	עני	ani
+Rich	עשיר	ashir
+Possible	אפשרי	ef'shari
+Impossible	בלתי אפשרי	bil'ti ef'shari
+Wonderful, Great	נהדר	nehedar
+Private	פרטי	p'rati
+Alive	חי	khai
+Nice	נחמד	mekh'mad
+Necessary	הכרחי	hekh'rekhi
+Independent	עצמאי	atz'ma'i
+Responsible	אחראי	akharai'i
+Free	חופשי	khafshi
+Simple	פשוט	pashut
+Excellent	מצוין	m'tzu'yan
+Disgusting, Nasty	מגעיל	mag'il
+Perfect	מושלם	mush'lam
+Incorrect	שגוי	shagun
+Correct	נכון	nakhon
+Boring	משעמם	m'sha'amem
+Interesting	מעניין	m'an'yen
+Serious	רציני	r'tzini
+Famous	מפורסם	m'fur'sam
+Negative	שלילי	sh'lili
+Positive	חיובי	khiuvi
+Hard, Difficult	קשה	khasheh
+Light, Easy	קל	kal
+Efficient	יעיל	ya'il
+Comfortable	נוח	noakh
+Professional	מקצועי	mik'tzoi
+Military	צבאי	tz'va'i
+Familiar	מוכר	mukar
+Many	רבות	rabim
+Thin	רזה	razeh
+Fat	שמן	shuman
+Duration	משך	meshekh
+Method, Mode, Technique	אופן	ofen
+Once, One Time	פעם	pa'am
+There (Location)	שם	sham
+Here (Location)	פה	poh
+Very	מאוד	m'od
+More	עוד	od
+Here (Location)	כאן	ka'n
+Enough	די	dai
+Often, Frequently	לעיתים קרובות	l'itim k'rovot
+Rarely, Infrequently	לעיתים רחוקות	l'itim r'khokot
+Anyway, Nevertheless	בכל זאת	b'khol zo't
+Really, Truly	באמת	be'emet
+Again	שוב	shuv
+Sometimes	לפעמים	lif'amim
+At Least	לפחות	l'fakhot
+As Always	כמו תמיד	k'mo tamid
+Differently, Otherwise	אחרת	akheret
+Anyway	בכל אופן	b'khol ofen
+Alone	לבד	l'vad
+Mostly, Mainly	בעיקר	b'ikar
+Later, Afterwards	אחר כך	akher kakh
+Usually, Normally, Generally	בדרך כלל	b'derekh k'lal
+Enough	מספיק	mas'pik
+Soon, Shortly	בקרוב	b'karov
+In The Meantime, Meanwhile	בינתיים	bein'tayim
+Almost, Nearly	כמעט	kim'at
+Late; Later	מאוחר	m'ukhar
+Early	מוקדם	muk'dam
+Especially; Mainly	במיוחד	b'yikhud
+Finally, At Last	סוף סוף	sof sof
+Not Necessarily	לא בהכרח	lo b'hekh'reakh
+Approximately, Sort Of, Roughly	בערך	b'erekh
+Exactly, Precisely	בדיוק	b'diyuk
+Easily	בקלות	b'kalut
+Completely, Entirely	לגמרי	l'gam'rei
+Hardly, Barely	בקושי	b'koshi
+Not Necessarily (Aramaic)	לאו דווקא	la'v dav'ka
+In General, Generally	באופן כללי	b'ofen k'lali
+Probably, Safe to Assume	סביר להניח	savir l'haniakh
+Everywhere	בכל מקום	b'khol makom
+Really, Very, Truly	ממש	mamash
+Far Away	הרחק	har'khek
+Just Now, Right Now, At The Moment	כרגע	karega
+Clearly	ברור	b'verur
+Slowly	לאט	l'at
+Quickly	מהר	maher
+Immediately, Promptly	מיד	miyad
+Together	ביחד	b'yakhad
+So, So Much/Many	כל כך	kal kakh
+Definitely, Certainly	בהחלט	b'hekh'let
+Lately, Recently	לאחרונה	la'akharona
+Like, As (Prep)	כמו	k'mo
+Son	בן	ben
+Brother	אח	akh
+Brothers	אחים	akhim
+Parent	הורה	horeh
+Husband	בעל	ba'al
+Surname	שם משפחה	shem mish'pakhah
+First Name	שם פרטי	shem p'rati
+Marriage	נישואין	nisu'in
+Grandfather	סבא	saba
+Grandson	נכד	nekhed
+Uncle	דוד	dod
+Cousin (m)	בן דוד	ben dod
+Groom	חתן	khatan
+Partner (m)	בן זוג	bat-zug
+Nephew	אחיין	akh'yan
+Baby	תינוק	tinok
+Life	חיים	khayim
+Daughter	בת	bat
+Sister	אחות	akhot
+Sisters	אחיות	akhayot
+Family	משפחה	mish'pakhah
+Wife	אישה	ishah
+Grandmother	סבתא	sav'ta
+Granddaughter	נכדה	nekh'dah
+Wedding	חתונה	khatunah
+Aunt	דודה	dodah
+Cousin (f)	בת דודה	bat dodah
+Bride	כלה	kalah
+Partner (f)	בת זוג	ben-zug
+Niece	אחיינית	akh'yanit
+House, Home	בית	bayit
+Key	מפתח	maf'teakh
+Chair	כיסא	kise
+Table	שולחן	shul'khan
+Toilet	שירותים	sherutim
+Window	חלון	khalon
+Room	חדר	kheder
+Air-Conditioner	מזגן	maz'gan
+Toy	צעצוע	tza'atzu'a
+Light	אור	or
+Roof	גג	gag
+Boiler	דוד	dud
+Building	בניין	bin'yan
+Wall	קיר	kir
+Bedroom	חדר שינה	khadar shenah
+Basement	מרתף	mar'tef
+Gate	שער	sha'ar
+Tool, Instrument	כלי עבודה	k'li avodah
+A Piece of Furniture	רהיט	rahit
+Living Room, Lounge	סלון	salon
+Appliance, Instrument	מכשיר	makh'shir
+Carpet	שטיח	shatiakh
+Guestroom, Lounge	חדר אורחים	khadar or'khim
+Dining Room	חדר אוכל	khadar okhel
+Curtain	וילון	yilon
+Closet, Cupboard	ארון	aron
+Vacuum	שואב אבק	sho'ev avak
+Dishes, Instruments, Tools	כלים	k'lim
+Tap, Faucet	ברז	berez
+Sink	כיור	kiyor
+Rag	סמרטוט	s'mar'tut
+Neighbour (m)	שכן	shakhen
+Shelter	מקלט	mik'tav
+Broom	מטאטא	mat'ate
+Refrigerator	מקרר	m'karer
+Bed	מיטה	mitah
+Sofa, Couch	ספה	sapah
+Stairs	מדרגות	madregah
+Apartment	דירה	dirah
+Door	דלת	delet
+Bath(tub)	אמבטיה	am'bat'yah
+Lamp	מנורה	m'norah
+Balcony, Porch	מרפסת	mir'peset
+Mirror	מראה	mar'ah
+Address	כתובת	k'tovet
+Floor	רצפה	ritz'pah
+Ceiling	תקרה	tik'rah
+Attic	עליית גג	aliyat gag
+Pillow	כרית	karit
+Blanket, Quilt	שמיכה	sh'mikhah
+Garden	גינה	ginah
+Yard	חצר	khatzer
+Laundry	כביסה	k'visah
+Washing Machine	מכונת כביסה	m'khonat k'visah
+Neighbour (f)	שכנה	sh'khenah
+Garbage, Rubbish	אשפה	ash'pah
+Elevator, Lift	מעלית	ma'alit
+To Clean (Piel)	לנקות	l'nakot
+To Pass (Qal)	לעבור	la'avor
+To Pump, Vacuum (Qal)	לשאוב	lish'ov
+To Wash, Clean Rinse (Qal)	לשטף	lish'tof
+Bottle of Water	בקבוק מים	bak'buk mayim
+Bottle of Wine	בקבוק יין	bak'buk yayin
+Guest Room	חדר אורחים	khadar or'khim
+Dining Room	חדר אוכל	khadar okhel
+Coffee Shop, Café	בית קפה	beit kafeh
+School	בית ספר	beit sefer
+Synagogue	בית כנסת	beit k'neset
+Hotel	בית מלון	beit malon
+Hospital	בית חולים	beit kholim
+Court	בית משפט	beit mish'pat
+Orange Juice	מיץ תפוזים	mitz tapuzim
+Chocolate Cake	עוגת שוקולד	ugat shokolad
+Cheese Cake	עוגת גבינה	ugat g'vinah
+Washing Machine	מכונת כביסה	m'khonat k'visah
+Breakfast	ארוחת בוקר	arukhat boker
+Lunch	ארוחת צהריים	arukhat tzaharayim
+Dinner	ארוחת ערב	arukhat erev
+To Write (Qal)	לכתוב	l'khitov
+To Walk, Go (Qal)	ללכת	lalekhet
+To Swim (Qal)	לשחות	lis'khot
+To Be (Qal)	להיות	lih'yot
+To See (Qal)	לראות	lir'ot
+To Cook, Boil (Qal)	לבשל	l'vashel
+To Sleep (Qal)	לישון	lishon
+To Run (Qal)	לרוץ	larutz
+To Pay (Piel)	לשלם	l'shalem
+To Give (Qal)	לתת	latet
+To Do, Make, Create (Qal)	לעשות	la'asot
+To Talk, Speak (Piel)	לדבר	l'daber
+To Tell, Say (Hifil)	להגיד	l'hagid
+To Play (Piel)	לשחק	l'sakhek
+To Drink (Qal)	לשתות	lish'tot
+To Close, Shut, Turn Off (Qal)	לסגור	lis'gor
+To Open, Unlock, Turn On (Qal)	לפתוח	lif'toakh
+To Hear, Listen (Qal)	לשמוע	lish'mo'a
+To Touch (Qal)	לגעת	laga'at
+To Say, Tell (Qal)	לומר	lomar
+To Put, Put On (Qal)	לשים	lasim
+To Get, Receive, Accept (Piel)	לקבל	l'kabel
+To Find, Encounter (Qal)	למצוא	lim'tzo
+To Help, Assist, Aid (Qal)	לעזור	la'azor
+To Come (Qal)	לבוא	lavo
+To Buy, Purchase (Qal)	לקנות	lik'not
+To Visit (Piel)	לבקר ב-	l'vaker
+To Work, Operate, Function (Qal)	לעבוד	la'avod
+To Take (Qal)	לקחת	lakakhat
+To Know (Qal)	לדעת	lada'at
+To Return (Qal -Intransitive)	לחזור	lakh'zor
+To Live, Reside (Qal)	לגור	lagur
+To Cut, Slash (Qal)	לחתוך	lakh'tokh
+To Suffer, Tolerate (Qal)	לסבול	lis'bol
+To Count, Enumerate (Qal)	לספור	lis'por
+To Prevent (Qal)	למנוע	lim'no'a
+To Paint, Draw, Depict (Piel)	לצייר	l'tzayer
+To Contain, Include, Comprise (Hifil)	להכיל	l'hakhil
+To Run Away, Escape (Qal)	לברוח	liv'roakh
+Weather	מזג אוויר	mezeg avir
+Rain	גשם	geshem
+Snow	שלג	sheleg
+Thunder	רעם	ra'am
+Lightning	ברק	barak
+Hail	ברד	barad
+Haze	אובך	obekh
+Heat Wave	גל חום	gal khom
+Cold Front/Spell	גל קור	gal kor
+Cloud	ענן	anan
+Hurricane	הוריקן	hurikan
+Tornado	טורנדו	tor'nado
+Degrees	מעלות	ma'aleh
+Fog	ערפל	arafel
+Sun	שמש	shemesh
+Storm	סופה	s'arah
+Temperature	טמפרטורה	tem'peraturah
+Wind	רוח	ruakh
+Flood	הצפה	hatzafah
+Bright (m.s)	בהיר	bahir
+Cloudy (m.s)	מעונן	m'unan
+Rainy (m.s)	גשום	gashum
+Descend (m.s - past) (Qal)	ירד	yarad
+To Shine, Dawn	לזרח	liz'roakh
+Dripping, Drizzling (Gerund)	מטפטפת	m'taf'tefet
+Beach	חוף ים	khof yam
+Hotel	בית מלון	beit malon
+Right	ימין	yamin
+Left	שמאל	s'mol
+Airport	שדה תעופה	s'deh t'ufah
+Street, Road	רחוב	r'khov
+Country, State	מדינה	m'dinah
+Synagogue	בית כנסת	beit k'neset
+Place, Space	מקום	makom
+Mosque	מסגד	mis'gad
+Asset, Property	נכס	nekhes
+Center	מרכז	mer'kaz
+Office	משרד	mis'rad
+Area	איזור	ezor
+Park	פארק	pa'rk
+Stucture	מבנה	miv'neh
+Supermarket	סופרמרקט	super'mar'ket
+District	מחוז	makhoz
+Island	אי	i
+Bank	בנק	ban'k
+Bar	בר	bar
+Mall, Canyon	קניון	kan'yon
+Valley	עמק	emek
+Museum	מוזיאון	muze'on
+Across	ברחבי	b'akhabei
+Village	כפר	p'far
+Course, Path, Route	מסלול	mas'lul
+Area, Perimeter	שטח	shetakh
+Border	גבול	g'vul
+Prison, Jail	בית כלא	beit sohar
+Tower	מגדל	mig'dal
+Palace	ארמון	ar'mon
+Cinema	בית קולנוע	beit kol'noa
+Port	נמל	namel
+Bridge	גשר	gesher
+West	מערב	ma'arav
+East	מזרח	miz'rakh
+North	צפון	afon
+South	דרום	darom
+Zoo	גן חיות	gan khayot
+Market	שוק	shuk
+Israel	ישראל	yis'rael
+City	עיר	ir
+Castle	טירה	tirah
+Church	כנסייה	k'nesiyah
+Jerusalem	ירושלים	y'rushalayim
+Grocery	מכולת	makholet
+Store, Shop	חנות	khanut
+Ground, Soil	קרקע	kar'ka
+Station	תחנה	takhanah
+Tel Aviv	תל אביב	tel aviv
+Corner	פינה	pinah
+Neighbourhood	שכונה	sh'khunah
+Avenue	שדרה	s'derah
+Town	עיירה	ayarah
+Capital City	עיר בירה	ir birah
+Community	קהילה	k'hilah
+Square, Roundabout	כיכר	kikar
+Farm	חווה	khavah
+Forward, Onward; In Front	קדימה	kadimah
+Backward, In Reverse	אחורה	akhorah
+Along	לאורך	l'orekh
+Homebound, Home	הביתה	habai'tah
+Into, Inside (Prep)	לתוך	l'tokh
+From, Out Of (Prep)	מתוך	mitokh
+To Turn, Face (Qal)	לפנות	lif'not
+Listens (Hifil)	מקשיב	mak'shiv
+Shows (Hifil)	מראה	mar'eh
+Listens, Eavesdrops (Hifil)	מאזין	ma'azin
+Suggests, Offers, Proposes (Hifil)	מציע	matzi'a
+Feels (Hifil)	מרגיש	mar'gish
+Prepares (Hifil)	מכין	mekhin
+Believes (Hifil)	מאמין	ma'amin
+Agrees (Hifil)	מסכים	mas'kim
+Starts, Begins (Hifil)	מתחיל	mat'khil
+Arrives, Comes, Reaches (Hifil)	מגיע	magi'a
+Admits, Thanks, Acknowledges (Hifil)	מודה	modeh
+Passes, Passes On, Transfers (Hifil)	מעביר	ma'avir
+Succeeds, Am Succeeded (Hifil)	מצליח	matz'liakh
+Returns (Transitive) (Hifil)	מחזיר	makh'zir
+Gets, Acquires, Obtains (Hifil)	משיג	masig
+Explains, Clarifies (Hifil)	מסביר	mas'bir
+Rents Out, Lets (Property) (Hifil)	משכיר	mas'kir
+Recommends (Hifil)	ממליץ	mam'litz
+Holds, Grips (Hifil)	מחזיק	makh'zik
+Produces (Material, Resource) (Hifil)	מפיק	mapik
+Puts Down, Places (Hifil)	מניח	maniakh
+Performs (Stage) (Hifil)	מופיע	mofi'a
+Adds (Hifil)	מוסיף	mosif
+Serves (Food, Drink) (Hifil)	מגיש	magish
+Continues, Keeps On (Hifil)	ממשיך	mam'shikh
+Presents, Shows (Hifil)	מציג	matzig
+Declares, Announces (Hifil)	מכריז	makh'riz
+Invites (Hifil)	מזמין	maz'min
+Allows, Permits (Hifil)	מרשה	mar'sheh
+Reminds (Hifil)	מזכיר	maz'kir
+Prefers (Hifil)	מעדיף	ma'adif
+Matches, Is Compatible (Hifil)	מתאים	mat'im
+Decides (Hifil)	מחליט	makh'lit
+Understands (Hifil)	מבין	mevin
+Contains, Comprises, Includes (Hifil)	מכיל	mekhil
+Replaces (Hifil)	מחליף	makhalif
+Evaluates, Appreciates (Hifil)	מעריך	ma'arikh
+Brings (Hifil)	מביא	mevi
+Man, Adam	אדם	adam
+Friend (m)	חבר	khaver
+Friend (m) (Casual)	ידיד	yadid
+Public	ציבור	tzibur
+Convention	כנס	kenes
+Enemy	אויב	oyev
+Human Being	בן אדם	ben adam
+Young Man	בחור	bakhur
+Adult	מבגר	m'vugar
+Youth	נוער	no'ah
+People	אנשים	anashim
+Individual	פרט	p'rat
+Boy, Teenager	נער	na'ar
+Victim	קורבן	kar'ban
+Citizen, Civilian	אזרח	ez'rakh
+Couple	זוג	zug
+Israeli	ישראלי	ish'r'eli
+French	צרפתי	tzar'fati
+American	אמריקאי	amerikani
+English	אנגלי	ang'l'i
+Australian	אוסטרלי	os't'rali
+Russian	רוסי	rusi
+Spanish, Spaniard	ספרדי	s'fardi
+Nation	עם	am
+Friend (f)	חברה	khaverah
+Friend (f) (Casual)	ידידה	y'didah
+Committee	ועדה	va'adah
+Culture	תרבות	tar'but
+Relationship	מערכת יחסים	me'er'kat y'khasim
+Foundation	קרן	keren
+Young Woman	בחורות	bakhurah
+Population	אוכלוסייה	ukh'lusiyah
+Adult (m.s)	מבגר	m'vugar
+Thousand	אלף	elef
+Million	מיליון	mil'yon
+Billion	מיליארד	mil'yar'd
+Percent(age)	אחוז	akhuz
+Half	חצי	khetzi
+Majority, Most	רוב	rov
+Total, Overall	סך הכל	sakh hakol
+Minus	מינוס	minus
+Hundred	מאה	me'ah
+Quantity	כמות	kamut
+First (m.s)	ראשון	rishon
+Second (m.s)	שני	sheni
+Third (m.s)	שלישי	sh'lishi
+Fourth (m.s)	רביעי	r'vi'i
+Fifth (m.s)	חמישי	khamishi
+Sixth (m.s)	שישי	shishi
+Seventh (m.s)	שביעי	sh'vi'i
+Eighth (m.s)	שמיני	sh'mini
+Ninth (m.s)	תשיעי	t'shi'i
+Tenth (m.s)	עשירי	asiri
+Thirty (m.s)	שלושים	sh'loshim
+Forty (m.s)	ארבעים	ar'ba'im
+Fifty (m.s)	חמישים	khamishim
+Sixty (m.s)	שישים	shishim
+Seventy (m.s)	שבעים	shiv'im
+Eighty (m.s)	שמונים	sh'monim
+Ninety (m.s)	תשעים	tish'im
+Average (m.s)	ממוצע	m'mutza
+Doubly, Twice (As Much) (m.s)	כפול	kaful
+Divided, Partial, Incomplete (m.s)	חלקי	khel'ki
+The Last (m.s)	האחרון	ha'akharon
+Equal(s) (m.s)	שוה	shaveh
+Less	פחות	pakhot
+Plus (Conj)	ועוד	v'od
+Two Hundred	מאתיים	ma'tayim
+Two Thousand	אלפיים	al'payim
+To Change (Something) (Piel)	לשנות	l'shanot
+Have To	חיב	khayav
+Supposed To	אמור	amur
+Forbidden; Must Not (Colloq)	אסור	asur
+Recommended	מומלץ	mum'latz
+Might, May	עשוי	asuy
+Permitted	מותר	mutar
+Allowed (Qal)	אפשר	ef'shar
+Can (3.m.s - Past) (Paol)	יכול	yakhol
+Teacher (m)	מורה	moreh
+Note	פתק	petek
+Pen	עט	et
+Course	קורס	kur's
+Education	חינוך	khinukh
+Lesson	שיעור	shi'ur
+Test, Exam	מבחן	miv'khan
+Study	לימוד	limud
+Pencil	עיפרון	iparon
+Homework	שיעורי בית	shi'ureh bayit
+Knowledge	ידע	yeda
+Chapter, Episode	פרק	perek
+Idea	רעיון	ra'yon
+Professor	פרופסור	p'rofesor
+Institute	מכון	makhon
+Degree	תואר	to'ar
+Student	סטודנט	s'tuden't
+Lecturer	מרצה	mar'tzeh
+Doctorate, PhD	דוקטורט	dok'torat
+Painting, Drawing	ציור	tziyur
+Document	מסמך	mis'makh
+Page	עמוד	amud
+Explanation	הסבר	hes'ber
+Difficulty	קושי	koshi
+Teacher (f)	מורה	morah
+Library	ספרייה	sif'riyah
+Example	דוגמה	dug'mah
+Classroom, Class	כיתה	kitah
+Word	מילה	milah
+Presentation	מצגת	matzeget
+University	אוניברסיטה	univer'sitah
+Lecture	הרצאה	har'tza'ah
+Preparation	הכנה	hakhanah
+Target, Objective	מטרה	matarah
+Meaning	משמעות	mash'ma'ut
+History	היסטוריה	his'tor'yah
+Plan, Program	תוכנית	takh'nit
+To Teach (Piel)	ללמד	l'lamed
+To Practice, Train (Someone) (Piel)	לתרגל	l'tar'gel
+Bike, Bicycle	אופניים	ofanayim
+Bus	אוטובוס	otobus
+Motorbike, Bike	אופנוע	ofano'a
+Plane	מטוס	mitos
+Pier, Dock, Platform	רציף	r'tzif
+Backpack	תיק גב	tik gav
+Line	קו	kav
+Guide	מדריך	mad'rikh
+Trip	טיול	tiyul
+Visit	ביקור	bikur
+Vehicle	רכב	rekhev
+Voyage, Journey	מסע	masa
+The Middle East	המזרח התיכון	hamiz'rakh hatikhon
+The Mediterranean	הים התיכון	hayam hatikhon
+Greece	יוון	yavan
+World	עולם	olam
+Passport	דרכון	dar'kon
+Fuel, Petrol	דלק	delek
+Tourist	תייר	tayar
+Overseas, Abroad	חוץ לארץ	khutz-la'aretz
+Car	מכונית	m'khonit
+Suitcase	מזוודה	miz'vadah
+Vacation	חופשה	huf'shah
+Train	רכבת	rakevet
+Boat	סירה	sirah
+Train Station	תחנת רכבת	takhanat rakevet
+Bus Station	תחנת אוטובוס	takhanat otobus
+Map	מפה	mapah
+Ship	ספינה	s'finah
+The United States	ארצות הברית	ar'tzot hab'rit
+Adventure	הרפתקה	har'pat'pah
+Flight	טיסה	tisah
+Transportation	תחבורה	takh'burah
+Subway	רכבת תחתית	rakevet takh'tit
+Land, Country	ארץ	eretz
+France	צרפת	tzar'fat
+Spain	ספרד	s'farad
+England	אנגליה	an'g'liyah
+Germany	גרמניה	ger'man'yah
+Egypt	מצרים	mitz'rayim
+Russia	רוסיה	rus'yah
+China	סין	sin
+Continent	יבשת	yabeshet
+Europe	אירופה	eiropah
+America	אמריקה	amerikah
+Africa	אפריקה	af'rikah
+Australia	אוסטרליה	os't'ral'yah
+Asia	אסיה	as'yah
+International	בין-לאומי	bein-l'umi
+European	אירופי	eiropi
+All Around	מסביב	misaviv
+To Travel (Piel)	לטייל	l'tayel
+To Ride (Bike) (Qal)	לרכב	lir'kov
+To Drive (Qal)	לנהוג	lin'hog
+To Sail (Qal)	לשוט	lashut
+To Fly (Plane) (Qal)	לטוס	latus
+To Drive/Travel/Go (Qal)	לנסוע	lin'soa
+To Sail, Depart (Ship, Boat) (Hifil)	להפליג	l'haf'lig
+I Was (Qal)	הייתי	hayiti
+You Were (2.m.s) Qal)	היית	hayita
+You Were (2.f.p) (Qal)	הייתן	heyiten
+You Were (2.m.p) (Qal)	הייתם	heyitem
+We Were (Qal)	היינו	hayinu
+She Was (3.f.s) (Qal)	הייתה	hai'tah
+He Was (3.m.s) (Qal)	היה	hayah
+Found, Encountered (Qal)	מצא	matza
+Drank (3.m.s) (Qal)	שתה	shatah
+Returned (3.m.s) (Qal)	חזר	khazar
+Loved (3.m.s) (Qal)	אהב	ahav
+Walked (3.m.s) (Qal)	הלך	halakh
+Wanted (3.m.s) (Qal)	רצה	ratzah
+Saw (3.m.s) (Qal)	ראה	ra'ah
+Said (3.m.s) (Qal)	אמר	amar
+Thought (3.m.s) (Qal)	חשב	khashav
+Ate (3.m.s) (Qal)	אכל	akhal
+Did (3.m.s) (Qal)	עשה	asah
+Heard (3.m.s) (Qal)	שמע	shama
+Left (3.m.s) (Qal)	עזב	azav
+Fell (3.m.s) (Qal)	נפל	nafal
+Worked (3.m.s) (Qal)	עבד	avad
+Ran (3.m.s) (Qal)	רץ	ratz
+Came (3.m.s) (Qal)	בא	ba
+Put (3.m.s) (Qal)	שם	sam
+Broke (3.m.s) (Qal)	שבר	shavar
+Sang (3.m.s) (Qal)	שר	shar
+Read (3.m.s) (Qal)	קרא	kara
+Took (3.m.s) (Qal)	לקח	lakah
+Gave (3.m.s) (Qal)	נתן	natan
+Knew (3.m.s) (Qal)	ידע	yada
+Wrote (3.m.s) (Qal)	כתב	katav
+Jumped (3.m.s) (Qal)	קפץ	kafatz
+Stole (3.m.s) (Qal)	גנב	ganav
+Tried (3.m.s) (Piel)	ניסה	nisah
+Spoke (3.m.s) (Piel)	דיבר	diber
+Cooked, Boiled (3.m.s) (Piel)	בישל	bishel
+Lost (3.m.s) (Piel)	איבד	ibed
+Played (3.m.s) (Piel)	שיחק	sikhek
+Told (3.m.s) (Piel)	סיפר	siper
+Asked, Requested (3.m.s) (Piel)	ביקש	bikesh
+Finished (3.m.s) (Piel)	סיים	siyem
+Paid (3.m.s) (Piel)	שילם	shilem
+Lied (3.m.s) (Piel)	שיקר	shiker
+Waited, Awaited (3.m.s) (Piel)	חיכה	khikah
+Won (3.m.s) (Piel)	ניצח	nitzeakh
+Spent (3.m.s) (Piel)	בזבז	baz'bez
+Envied, Was Jealous (3.m.s) (Piel)	קינא	kine
+Knew (3.m.s) (Hifil)	הכיר	hikir
+Listened (3.m.s) (Hifil)	הקשיב	hik'shiv
+Showed (3.m.s) (Hifil)	הראה	hir'ah
+Arrived (3.m.s) (Hifil)	הגיעה	hig'i'a
+Decided (3.m.s) (Hifil)	החליט	hekh'lit
+Started, Began (3.m.s) (Hifil)	התחיל	hit'khil
+Bought, Purchased (3.m.s) (Hifil)	קנה	kanah
+Felt (3.m.s) (Hifil)	הרגיש	hir'gish
+Explained, Clarified (3.m.s) (Hifil)	הסביר	his'bir
+Proposed, Offered (3.m.s) (Hifil)	הציע	hitzi'a
+Believed, Trusted (3.m.s) (Hifil)	האמין	he'emin
+Invited, Ordered (3.m.s) (Hifil)	הזמין	hiz'min
+Understood (3.m.s) (Hifil)	הבין	hevin
+English	Hebrew	Transliteration
+Similar (m.s)	דומה	domeh
+More	יותר	yoter
+Less	פחות	pakhot
+Most	הכי	hakhi
+English	Hebrew	Transliteration
+Flyer, Pamphlet	עלון	alon
+Magazine	מגזין	magazin
+Computer	מחשב	makh'shev
+Watch	שעון	sha'on
+Radio	רדיו	rad'yo
+Object	חפץ	khefetz
+Desk	שולחן עבודה	shulkhan avodah
+(Wrist) Watch	שעון יד	sh'on yad
+Wallet, Purse	ארנק	ar'nak
+Basket	סל	sal
+Mobile Phone	טלפון נייד	telefon nayad
+Soap	סבון	sabon
+Screen, Monitor	מסך	masakh
+Telephone	טלפון	telefon
+Bag	תיק	tik
+Linen	מצעים	matza'im
+Wheel	גלגל	gal'gal
+Novel	רומן	roman
+Scissors	מספריים	mis'parayim
+Letter	מכתב	mikh'tav
+Bell	פעמון	pa'amon
+Sponge	ספוג	s'fog
+mug	ספל	sefel
+Root	שורש	shoresh
+Paper	נייר	n'yar
+Flag	דגל	degel
+String	חוט	khut
+Engine	מנוע	mano'a
+Comb	מסרק	mas'rek
+Candle	נר	ner
+TV	טלוויזיה	televiz'yah
+Battery	סוללה	sol'lah
+Box	קופסה	kuf'sah
+Pool	בריכה	b'rekhah
+Umbrella	מטרייה	mit'riyah
+Pan	מחבת	makhavat
+Object, Bone	עצם	etzem
+Machine	מכונה	m'khonah
+Chain	שרשרת	shar'sheret
+Piece	חתיכה	khatikhah
+Powder	אבקה	av'kah
+Fence	גדר	gader
+Gift, Present	מתנה	matanah
+Shopping	קניות	k'niyah
+Each Other	אחד )-(שני	akhad (-)sheni
+Showers (Oneself)	מתקלח	mit'kaleakh
+Shaves (Oneself)	מתגלח	mit'galeakh
+Takes A Haircut	מסתפר	mis'taper
+Looks	מסתכל	mis'takel
+Uses	משתמש	mish'tamesh
+Calls (Telephone)	מתקשר	mit'kasher
+Gets Stronger/More Religious	מתחזק	mit'khazek
+Practices, Trains	מתאמן	mit'amen
+Comes Closer	מתקרב	mit'karev
+Educates (Oneself)	מתחנך	mit'khanekh
+Begs, Pleads	מתחנן	mit'khanen
+Overcome(s), Gets Over	מתגבר	mit'gaber
+Finishes (Passive)	מסתיים	mis'tayem
+Misses (Feeling)	מתגעגע	mit'ga'agea
+Turns Around	מסתובב	mis'tovev
+Cools Off (Passive)	מתקרר	mit'karer
+Heats Up (Passive)	מתחמם	mit'khamem
+Gets Old	מזדקן	miz'daken
+Recovers	מתאושש	mit'oshesh
+Hides	מתחבא	mit'khabe
+Gets Drunk	משתכר	mish'taker
+Changes (Oneself)	משתנה	mish'taneh
+Unites (With Someone Else)	מתאחד	mit'akhed
+Connects (Oneself)	מתחבר	mit'khaber
+Disconnects (Oneself)	מתנתק	mit'natek
+Consults (With Someone)	מתייעץ	mit'ya'etz
+Gets (Oneself) Ready	מתכונן	mit'konen
+Joins	מצטרף	mitz'taref
+Deals With	מתמודד	mit'moded
+Ignores	מתעלם	mit'alem
+Prays	מתפלל	mit'palel
+Apologizes	מתנצל	mit'natzel
+Gets Confused	מתבלבל	mit'bal'bel
+Works Out	מתעמל	mit'amel
+Left-Handed	שמאלי	s'ma'li
+Right-Handed	ימני	y'mani
+Legal	חוקי	khuki
+Different	שונה	shoneh
+Local	מקומי	m'koni
+Rare	נדיר	nadir
+Popular	פופולרי	populari
+Available	זמין	zamin
+Official	רשמי	rish'mi
+Final	סופי	sofi
+Complete, Whole	שלם	shalem
+Immediate	מיידי	miyadi
+Single	יחיד	yakhid
+Traditional	מסורתי	masar'ti
+Modern	מודרני	moder'ni
+Historic	היסטורי	his'tori
+Smart	חכם	khakham
+Dumb	מטומטם	m'tum'tam
+Stupid	טיפש	tipesh
+Ugly	מכוער	m'kho'ar
+Amazing	מדהים	mad'him
+Religious	דתי	dati
+Cultural	תרבותי	tar'buti
+Ready	מוכן	mukhan
+Deep	עמוק	amok
+Pure	טהור	tahor
+Main	ראשי	rashi
+Sharp	חד	khad
+Certain	בטוח	batuakh
+Lonely, Single	בודד	boded
+Fresh	טרי	tari
+Thick	עבה	aveh
+Narrow	צר	tzar
+Wide	רחב	rakhav
+Fascinating	מרתק	m'ratek
+Strange, Weird	מוזר	muzar
+Global	עולמי	olami
+Healthy	בריא	bari
+Under	תחתון	takh'ton
+Upper	עליון	el'yon
+Ancient	עתיק	atik
+Daily	יומי	yomi
+Personal	אישי	ishi
+Weekly	שבועי	sh'vuli
+Bad	גרוע	gadu'a
+Impressive	מרשים	mar'shim
+Monthly	חודשי	khad'shi
+Yearly	שנתי	sh'nati
+Wonderful	נפלא	nif'la
+Part	חלק	khelek
+Service	שירות	sherut
+Type	סוג	sug
+Design	עיצוב	itzuv
+Occurence, Incident	מקרה	mik'reh
+Change	שינוי	shinuiy
+Account, Tab, Check	חשבון	khesh'bon
+Profile	פרופיל	p'rofil
+Noise	רעש	ra'ash
+Description	תיאור	te'ur
+Content	תוכן	tokhen
+Value	ערך	erekh
+Equipment	ציוד	tziyud
+Side	צד	tzad
+Performances	ביצועים	bitzu'im
+Agreement	הסכם	hes'kem
+Solution	פיתרון	pit'ron
+Manufacturing	ייצור	yitzur
+Structure, Formation	מבנה	miv'neh
+Queue	תור	tor
+Situation	מצב	matzav
+Matter, Interest	עניין	in'yan
+Voice	קול	kol
+Role	תפקיד	taf'kid
+Failure	כישלון	kishalon
+Crisis	משבר	mash'ber
+Reward	פרס	p'ras
+Grade	ציון	tziyun
+Subject	נושא	nose
+Darkness	חושך	khoshekh
+Edge	קצה	katzeh
+End	סוף	sof
+Perspective, Point of View	השקפה	hash'kafah
+List	רשימה	r'shimah
+Command, Order	פקודה	p'kudah
+System	מערכת	ma'arekhet
+Group	קבוצה	k'vutzah
+Version	גירסה	gir'sah
+Control	שליטה	sh'litah
+Conversation	שיחה	shikhah
+Level	רמה	ramah
+Picture, Image	תמונה	t'munah
+Category	קטגורייה	kategoriyah
+Problem	בעיה	b'ayah
+Possibility	אפשרות	ef'sharut
+Activity, Action	פעילות	p'ilut
+Result	תוצאה	totza'ah
+Defence	הגנה	haganah
+Response	תגובה	t'guvah
+Entrance	כניסה	k'nisah
+Influence	השפעה	hash'pa'ah
+Wish	משאלה	mish'alah
+Hope	תקווה	tik'vah
+Opportunity	הזדמנות	tiz'dam'nut
+Exit	יציאה	y'tzi'ah
+Option, Choice	ברירה	b'rerah
+Success	הצלחה	hatz'lakhah
+Intro, Preface	הקדמה	hak'damah
+Intention	כוונה	kavanah
+Rest	מנוחה	m'nukhah
+Alternative	חלופה	khalufah
+Peak, Record	שיא	seyah
+Decision	החלטה	hakh'latah
+Beginning	התחלה	hat'khalah
+Walk!, Go! (Qal)	לך	lekh
+Run! (Qal)	רוץ	rutz
+Help! (Qal)	עזור	azor
+Come! (Qal)	בוא	bo
+Save!, Keep! (Qal)	שמור	sh'mor
+Give! (Qal)	תן	ten
+Do! (Qal)	עשה	aseh
+Stop! (Qal)	עצור	atzor
+Take! (Qal)	קח	kakh
+Know! (Qal)	דע	da
+Buy! (Qal)	קנה	k'neh
+Open! (Qal)	פתח	p'takh
+Put! (Qal)	שים	sim
+Fly! (Qal)	טוס	tus
+Sit! (Qal)	שב	shev
+Forget! (Qal)	שכח	sh'khakh
+Watch!, Expect! (Qal)	צפה	tz'feh
+Send! (Qal)	שלח	sh'lakh
+Drink! (Qal)	שתה	sh'teh
+Go Out!, Exit! (Qal)	צא	tze
+Talk!, Speak! (Piel)	דבר	daber
+Try!, Attempt! (Piel)	נסה	naseh
+Search!, Look For! (Piel)	חפש	khapes
+Mark!, Indicate! (Piel)	סמן	samen
+Fix!, Repair! (Piel)	תקן	taken
+Accept! (Piel)	קבל	kabel
+Have Mercy! (Piel)	רחם	rakhem
+Mix!, Stir! (Piel)	ערבב	arbev
+Wait! (Piel)	חכה	khakeh
+Finish! (Piel)	סיים	sayem
+Take A Picture! (Piel)	צלם	tzalem
+Bless! (Piel)	ברך	barekh
+Learn!, Study! (Qal)	למד	lemad
+Listen! (Hifil)	הקשב	hak'shev
+Show! (Hifil)	הראה	har'eh
+Feel!, Sense! (Hifil)	הרגש	har'gesh
+Believe!, Trust! (Hifil)	האמן	ha'amen
+Start!, Begin! (Hifil)	התחל	hat'khel
+Return! (Transitive) (Hifil)	החזר	hakh'zer
+Add! (Hifil)	הוסף	hosef
+Invite! (Hifil)	הזמן	haz'men
+Present!, Show! (Hifil)	הצג	hatzeg
+Decide! (Hifil)	החלט	hakh'let
+Change!, Exchange!, Swap! (Hifil)	החלף	hakh'lef
+Remind! (Hifil)	הזכר	haz'ker
+Take A Shower! (Hitpael)	התקלח	hit'kaleakh
+Look!, Watch! (Hitpael)	הסתכל	his'takel
+Come Closer!, Approach! (Hitpael)	התקרב	hit'karev
+Hide! (Hitpael)	התחבא	hit'khabe
+Connect!, Join Together! (Hitpael)	התחבר	hit'khaber
+Join! (Group/Organisation) (Hitpael)	הצטרף	hitz'taref
+Ignore!, Disregard! (Hitpael)	התעלם	hit'alem
+Pray! (Hitpael)	התפלל	hit'palel
+Get Prepared! (Hitpael)	התכונן	hit'konen
+Cut Hair! (Hitpael)	הסתפר	his'taper
+Use! (Hitpael)	השתמש	hish'tamesh
+Dictionary	מילון	milon
+Sentence	משפט	mish'pat
+Noun	שם עצם	shem etzem
+Verb	פועל	po'al
+Adjective	שם תואר	shem to'ar
+Comma	פסיק	p'sik
+Language	שפה	safah
+Letter	אות	ot
+Linguist	בלשן	bal'shan
+Linguistics	בלשנות	bal'shanut
+Paragraph	פסקה	pis'kah
+Line	שורה	shurah
+Period, Dot	נקודה	n'kudah
+Mother Tongue	שפת אם	s'fat em
+Spanish	ספרדית	s'fardit
+French	צרפתית	tzar'fatit
+German	גרמנית	ger'manit
+Russian	רוסית	rusit
+Chinese	סינית	sinit
+Dutch	הולנדית	holan'dit
+Italian	איטלקית	ital'kit
+Portuguese	פורטוגזית	por'tugezit
+Swedish	שוודית	sh'vedit
+Danish	דנית	denit
+Arabic	ערבית	aravit
+Japanese	יפנית	yapanit
+Czech	צ'כית	chekhit
+Greek	יוונית	y'vanit
+Hungarian	הונגרית	hun'garit
+Irish	אירית	irit
+Polish	פולנית	polanit
+Hindi	הינדי	hin'di
+Yiddish	יידיש	yidish
+Esperanto	אספרנטו	es'peran'to
+Rescue	חילוץ	khilutz
+Firefighter	כבאי	kabai
+Medic	חובש	khobesh
+Emergency	מקרה חירום	mik'reh herum
+Magen David Adom	מגן דוד אדום	magen david adom
+Explosion	פיצוץ	pitzutz
+Help!	עזרה	ez'rah
+Caution	זהירות	z'hirut
+Consciousness	הכרה	hakarah
+CPR	החייאה	hakh'ya'ah
+Distress	מצוקה	m'tzukah
+Accident	תאונה	t'unah
+Fire	שריפה	s'refah
+First Aid	עזרה ראשונה	ez'rah ri'shonah
+Alarm, Siren	אזעקה	az'akah
+Trapped	לכוד	lakhud
+Injured	פצוע	patzu'a
+Dangerous	מסוכן	m'sukan
+Help! (2.m.p - imp.) (Hifil)	הצילו	hatzilu
+To Perform, Execute (Piel)	לבצע	l'vatze'a
+To Pass Out, Faint, Swoon (Hitpael)	להתעלף	l'hit'alef
+(Am) Electrocuted (ms) (Hitpael)	מתחשמל	mit'khash'mel
+To Fall, Drop (Qal)	ליפול	lipol
+To Drown, Sink (Qal)	לטבוע	lit'bo'a
+Future (Time)	עתיד	atod
+Past (Time)	עבר	avad
+Present (Time)	הווה	hoveh
+I Will Be (1.c.s) (Qal) You/She Will Be (2.m.s) (Qal)	אהיה תהיה	eh'yeh tih'yeh
+You Will Be (2.f.s) (Qal)	תהיי	tih'yi
+We Will Be (1.c.p) (Qal)	נהיה	nih'yeh
+You Will Be (2.m.p) (Qal)	תהיו	tih'yu
+They Will Be (3.m.p) (Qal)	יהיו	yih'yu
+You/They Will Be (3.f.p) (Qal)	תהיינה	tih'yenah
+He Will Be (3.m.s) (Qal)	יהיה	yih'yeh
+Will Eat (Qal)	יאכל	yokhal
+Will Drink (Qal)	ישתה	yish'teh
+Will Write (Qal)	יכתוב	yikh'tov
+Will Swim (Qal)	ישחה	yish'kheh
+Will See (Qal)	יראה	yir'eh
+Will Hear, Listen (Qal)	ישמע	yish'ma
+Will Do, Make, Create (Qal)	יעשה	ya'aseh
+Will Think (Qal)	יחשוב	yakh'shov
+Will Love (Qal)	יאהב	ye'ehav
+Will Give (Qal)	יתן	yiten
+Will Go (Qal)	ילך	yelekh
+Will Stand (Qal)	יעמוד	ya'amod
+Will Pay (Piel)	ישלם	y'shalem
+Will Miss (Piel)	יפספס	y'fas'fes
+Will Change (Piel)	ישנה	y'shaneh
+Will Try (Piel)	ינסה	y'naseh
+Will Choose/Elect (Qal)	יבחר	yiv'khar
+Will Talk/Speak (Piel)	ידבר	y'daber
+Will Search/Look For (Piel)	יחפש	y'khapes
+Will Visit (Piel)	יבקר	y'vaker
+Will Approve/Authorize (Piel)	יאשר	y'asher
+Will Listen (Hifil)	יקשיב	yak'shiv
+Will Start/Begin (Hifil)	יתחיל	yat'khil
+Will Arrive (Hifil)	יגיע	yagi'a
+Will Explain (Hifil)	יסביר	yas'bir
+Will Show, Demonstrate (Hifil)	יראה	yar'eh
+Will Say/Tell (Hifil)	יגיד	yagid
+Will Invite (Hifil)	יזמין	yaz'min
+Will Remind (Hifil)	יזכיר	yaz'kir
+Will Decide (Hifil)	יחליט	yakh'lit
+Will Understand (Hifil)	יבין	yavin
+Will Agree, Consent (Hifil)	יסכים	yas'kim
+Will Send, Dispatch (Qal)	ישלח	yish'lakh
+Will Look, Watch, Observe (Hitpael)	יסתכל	yis'takel
+Will Use (Hitpael)	ישתמש	yish'tamesh
+Will Call (Phone) (Piel)	יתקשר	yit'kasher
+Will Come Closer (Hitpael)	יתקרב	yit'karev
+Will Miss, Long For (Feeling) (Hitpael)	יתגעגע	yit'ga'ge'a
+Will Change (Hitpael)	ישתנה	yish'taneh
+Will Join (Hitpael)	יצטרף	yitz'taref
+Will Shower (Hitpael)	יתקלח	yit'kaleakh
+Will Apologize (Hitpael)	יתנצל	yit'natzel
+Will Ignore (Hitpael)	יתעלם	yit'alem
+Will Prepare (Hitpael)	יתכונן	yit'konen
+Will Connect, Join Together (Hitpael)	יתחבר	yit'khaber
+Will Come (Qal)	יבוא	yavo
+Wanted, Desirable	רצוי	ratzuy
+Broken	שבור	shavur
+Loved	אהוב	ahuv
+Disturbed	מופרע	muf'ra
+Written, Inscribed	כתוב	katuv
+Eaten, Devoured	אכול	akhol
+Made Of; Made, Prepared	עשוי	asuy
+Tied, Related, Connected	קשור	kashur
+Infected	נגוע	nagu'a
+Known	ידוע	yadu'a
+Bought	קנוי	kanuy
+Saved, Reserved; Preserved	שמור	shamur
+Cut, Cut Off; Sliced, Chopped	חתוך	khatukh
+Anticipated, Expected	צפוי	tzafuy
+Recalled, Remembered	זכור	zakhur
+Cooked, Boiled	מבושל	m'vushal
+Experienced	מנוסה	m'nuseh
+Discussed, Talked About	מדובר	m'dubar
+Mixed	מעורבב	m'ur'bav
+Wasted	מבוזבז	m'buz'baz
+Strange, Peculiar, Unusual	משונה	m'shuneh
+Filled, Stuffed	ממולא	m'mula
+Convinced	משוכנע	m'shukh'na
+Organized	מסודר	m'sudar
+Joined, Communal; Common, Joint	משותף	m'shutaf
+Particular, Specific	מסוים	m'suyam
+Accepted, Popular; Customary	מקובל	m'kubal
+Composed, Made Up Of	מורכב	mur'kav
+Invited	מוזמן	muz'man
+Successful	מוצלח	mutz'lakh
+Replaced, Exchanged	מוחלף	mukh'laf
+Understandable	מובן	muvan
+Definitive, Total	מוחלט	mukh'lat
+Explained, Clarified	מוסבר	mus'bar
+Restricted; Limited	מוגבל	mug'bal
+Influenced, Affected	מושפע	mush'pa
+Worried	מודאג	mud'ag
+Compatible, Adapted, Suited	מותאם	mut'am
+Myself	עצמי	atz'mi
+Yourself (m.s)	עצמך	atz'm'kha
+Yourself (f.s)	עצמך	atz'mekh
+Himself	עצמו	atz'mo
+Herself	עצמה	atz'mah
+Ourselves	עצמנו	atz'menu
+Yourselves (m.p)	עצמכם	atz'm'khem
+Yourselves (f.p)	עצמכן	atz'm'khen
+Themselves (m.p)	עצמם	atz'mam
+Themselves (f.p)	עצמן	atz'man
+The Previous, Former	הקודם	hakodem
+By	על ידי	al y'dei
+Seen	נראה	nir'ah
+Failed	נכשל	nikh'shal
+Finished	נגמר	nig'mar
+Entered	נכנס	nikh'nas
+To Be Lost	להיאבד	l'hei'aved
+Was Heard	נשמע	nish'ma
+Was Closed	נסגר	nis'gar
+Was Opened	נפתח	nif'takh
+Was Eaten	נאכל	ne'ekhal
+Was Written	נכתב	nikh'tav
+Was Caused	נגרם	nig'ram
+Was Read	נקרא	nik'ra
+Met	נפגש	nif'gash
+Was Asked	נשאל	nish'al
+Was Done	נעשה	na'asah
+Was Given	ניתן	nitan
+Disappeared	נעלם	ne'elam
+Separated, Broke Up	נפרד	nif'rad
+Was Burnt	נשרף	nis'raf
+Was Sent	נשלח	nish'lakh
+Was Hurt	נפגע	nif'ga
+Was Said	נאמר	ne'emar
+Stayed	נשאר	nish'ar
+Enjoyed, Had Fun	נהנה	nehenah
+Sky	שמיים	shamayim
+Flower	פרח	perakh
+Tree	עץ	etz
+Forest	יער	ya'ar
+Sea	ים	yam
+Grass	דשא	deshe
+Bush, Shrub	שיח	siakh
+Air	אויר	avir
+Field	שדה	sadeh
+Sand	חול	khol
+Star	כוכב	khokhav
+Moon	ירח	yareakh
+Nature	טבע	teva
+River	נהר	nahar
+Planet	כוכב לכת	khokhav lekhet
+Earth	כדור הארץ	kadur ha'aretz
+Space	חלל	khalal
+Rose	ורד	vered
+Leaf	עלה	aleh
+View, Scenery, Landscape	נוף	nof
+Climate	אקלים	ak'lim
+Heat	חם	khom
+Mountain	הר	har
+Universe	יקום	y'kum
+Gas	גז	gaz
+Smoke	עשן	ashan
+Substance, Material	חומר	khomer
+Desert	מדבר	mid'bar
+Plant	צמח	tzemakh
+Crop	יבול	y'vul
+Dust	אבק	avak
+Volcano	הר געש	har ga'ash
+Iceberg, Glacier	קרחון	kar'khon
+Cliff	צוק	tzuk
+Fire	אש	esh
+Stone	אבן	even
+Ground, Earth	אדמה	adamah
+Ground, Earth	קרקע	kar'ka
+Ice	קרח	karah
+Hill	גבעה	giv'ah
+Cave	מערה	m'arah
+Sunset	שקיעה	shi'ki'ah
+Discussion	דיון	diyun
+Argument	ויכוח	vikuakh
+Advantage	יתרון	yit'ron
+Disadvantage	חסרון	khisaron
+Opinion	דעה	de'ah
+Mistake	טעות	ta'ut
+Conclusion	מסקנה	mas'panah
+Repercussion	השלכה	hash'lakhah
+Suggestion	הצעה	hatza'ah
+Agreement, Accord	הסכמה	has'kamah
+Preferable (m.s)	עדיף	adif
+In My Opinion (Interj)	לפי דעתי	l'fi da'ti
+By (Prep)	לפי	l'fi
+Regarding, In Regards (Prep)	לגבי	l'gabei
+To Express, Convey (Hifil)	להביע	l'habi'a
+To Wonder (Qal)	תהה	tahah
+To Choose (Qal)	לבחור	liv'khor
+Eat! (2.m.s) (Qal)	אכול	ekhol
+Close! (2.m.s) (Qal)	סגור	s'gor
+Let's Go! (1.c.p - fut.) (Qal)	בוא נלך	bo nelekh
+Let's Do! (1.c.p - fut.) (Qal)	בוא נעשה	bo na'aseh
+Let's Try! (1.c.p - fut.) (Piel)	בוא ננסה	n'nuseh
+Let's See! (1.c.p - fut.) (Qal)	בוא נראה	bo nir'eh
+Let's Talk (1.c.p - fut.) (Piel)	בוא נדבר	bo n'daber
+Let's Say (1.c.p - fut.) (Hifil)	בוא נגיד	bo nagid
+Return! (Intransitive) (2.m.s) Qal)	חזור	khazor
+Cut! (2.m.s) (Qal)	חתוך	khatokh
+Stand! (2.m.s) (Qal)	עמוד	amod
+Respect!, Honour! (2.m.s) (Qal)	כבד	kabed
+Visit! (2.m.s) (Qal)	בקר	baker
+Break! (2.m.s) (Qal)	שבור	sh'vor
+Wear! (2.m.s) (Qal)	לבש	l'vash
+Ask! (2.m.s) (Qal)	שאל	sh'al
+Tell! (2.m.s) (Piel)	ספר	saper
+Answer!, Reply! (2.m.s) (Qal)	ענה	aneh
+Stay! (Nifal)	הישאר	hisha'er
+Enter! (Nifal)	היכנס	hikhanes
+Meet! (Nifal))	היפגש	hipagesh
+Emotion	רגש	regesh
+Shock	הלם	helem
+Happiness	אושר	osher
+Tear	דמעה	dim'ah
+Bored (m.s)	משועמם	m'shu'amam
+Depressed (m.s)	מדוכא	m'duka
+Happy (m.s)	מאושר	m'ushar
+Kiss (m.s)	נשיקה	n'shikah
+In Love (m.s)	מאוהב	m'ohav
+Surprised (m.s)	מופתע	muf'ta
+Repulsive (m.s)	דוחה	dokeh
+Optimistic (m.s)	אופטימי	op'timi
+Pessimistic (m.s)	פסימי	pesimi
+Embarrassing (m.s)	מביך	mevikh
+Calm (m.s)	רגוע	ragu'a
+Confused (m.s)	מבולבל	m'vul'bal
+Helpless (m.s)	חסר-אונים	khasar onim
+Hostile (m.s)	עוין	oyen
+Naughty, Cheeky (m.s)	שובב	shovav
+Offended (m.s)	פגוע	pagu'a
+Rejected (m.s)	דחוי	dakhuy
+Shy (m.s)	ביישן	bai'shan
+Sensitive, Emotional (m.s)	רגיש	ragish
+Lonely (m.s)	בודד	boded
+To Be Sorry, Regret (Hitpael)	להצטער	l'hitz'taer
+To Be Offended, Insulted (Nifal)	להיעלב	l'he'alev
+To Kiss (Piel)	לנשק	l'nashek
+To Hug (Piel)	לחבק	l'khabek
+To Comfort (Piel)	לנחם	l'nakhem
+To Expect, Await (Piel)	לצפות	l'tzapot
+To Cry (Paal)	לבכות	liv'kot
+To Be Enthusiastic (Hitpael)	להתלהב	l'hit'lahev
+To Adore, Admire (Hifil)	להעריץ	l'ha'aritz
+Triangle	משולש	m'shulash
+Square	ריבוע	ribu'a
+Circle	עיגול	igul
+Rectangle	מלבן	mal'ben
+Line	קו	kan
+Quadrilateral	מרובע	m'ruba
+Vertex	קודקוד	kad'kom
+Trapeze	טרפז	t'rapez
+Rhombus	מעין	m'uyah
+Pentagon	מחומש	m'khumash
+Hexagon	משושה	m'shusheh
+Length	אורך	orekh
+Width	רוחב	rokhav
+Height	גובה	govah
+Depth	עמק	omek
+Surface	משטח	mish'takh
+Volume	נפח	nefakh
+Meter	מטר	meter
+In Kilometers	בקילומטרים	bakilomet'riyah
+Centimeter	סנטימטר	sen'timeter
+Milimeter	מילימטר	milimeter
+Ruler	סרגל	sar'gel
+Shape	צורה	tzurah
+Parallel	מקבילה	mak'bilah
+Ellipse	אליפסה	elip'sah
+Angle	זויות	zavit
+Side, Edge	צלע	tzela
+Geometry	גיאומטריה	je'omet'r'yah
+Parallelogram	מקבילית	mak'bilit
+Trigonometry	טריגונומטריה	t'rigonomet'r'yah
+Unit of Measure	יחידת מידה	y'khidah midah
+To Measure (Qal)	למדוד	lim'dod
+Honour, Respect	כבוד	kavod
+Effort	מאמץ	ma'amatz
+Character	אופי	ofi
+Source	מקור	makor
+Direction	כיוון	kiuun
+Secret	סוד	sod
+Experience	ניסיון	nisayon
+Damage	נזק	nezek
+Symbol, Icon	סמל	semel
+Power, Strength	כוח	koakh
+Doubt	ספק	safek
+Fear	פחד	pakhad
+Humour	הומור	humor
+Expression	ביטוי	bituy
+Murder	רצח	retzakh
+Smile	חיוך	khiyukh
+Shadow	צל	tzel
+Memory	זיכרון	zikaron
+Loss	הפסד	khef'sed
+Victory	ניצחון	nitzakhon
+lie	שקר	sheker
+Sense	חוש	khush
+Difference	הבדל	hev'del
+Basis	בסיס	basis
+Beauty	יופי	yofi
+Luck	מזל	mazal
+Value	תועלת	toelet
+Attention	תשומת לב	t'sumat lev
+Permission	רשות	rashut
+Reality	מציאות	m'tzi'ut
+Behaviour	התנהגות	hit'nahagut
+Signature	חתימה	khatimah
+Position	עמדה	em'dah
+Responsibility	אחריות	akh'raiut
+Approach, Attitude	גישה	gishah
+Tradition	מסורת	masoret
+Hatred	שנאה	shin'ah
+Danger	סכנה	sakanah
+Enjoyment	הנאה	hana'ah
+Surprise	הפתעה	haf'ta'ah
+fall	נפילה	n'filah
+Truth	אמת	emet
+Favour	טובה	tovah
+Trait	תכונה	t'khunah
+Desire	תשוקה	t'shukah
+Identity	זהות	zehut
+Importance	חשיבות	khashivut
+Priority	עדיפות	adifut
+To Believe (Hifil)	להאמין	l'ha'amin
+To Influence (Hifil)	להשפיע	l'hashpi'a
+To Increase, Enlarge, Expand (Hifil)	להגדיל	l'hag'dil
+To Improve (Piel)	לשפר	l'shaper
+To Continue, Go On (Hifil)	להמשיך	l'ham'shikh
+To Define (Hifil)	להגדיר	l'hag'dir
+To Answer, Reply (Qal)	לענות	la'anot
+To Cover, Conceal (Piel)	לכסות	l'khasot
+To Allow (Piel)	לאפשר	l'afsher
+To Win, Overcome (Piel)	לנצח	l'natzeakh
+To Develop, Invent (Piel)	לפתח	l'fateakh
+To Finish, Complete (Piel)	לסיים	l'sayem
+To Feel, Sense (Hifil)	להרגיש	l'har'gish
+To Understand (Hifil)	להבין	l'havin
+To Die (Qal)	למות	lamut
+To Agree, Consent (Hifil)	להסכים	l'has'kim
+To Wait (Piel)	לחכות	l'khakot
+To Refuse (Piel)	לסרב	l'sarev
+To Explain, Clarify (Hifil)	להסביר	l'has'bir
+To React, Retaliate (Hifil)	להגיב	l'hagiv
+To Lose (Hifil)	להפסיד	l'haf'sid
+To Read (Qal)	לקרוא	lik'ro
+To Use (Hitpael)	להשתמש	l'hish'tamesh
+To Recover (Hitpael)	להתאושש	l'hit'oshesh
+To Remember (Qal)	לזכור	liz'kor
+To Meet, Encounter (Qal)	לפגוש	lif'gosh
+To Fly (Plane) (Qal)	לטוס	latus
+To Stop, Halt (Qal)	לעצור	la'atzor
+To Leave, Abandon (Qal)	לעזוב	la'azov
+To Stay (Nifal)	להישאר	l'hisha'er
+To Build, Construct (Qal)	לבנות	liv'not
+To Break (Qal)	לשבור	lish'bor
+To Cause (Qal)	לגרום	lig'rom
+To Love (Qal)	לאהוב	le'ehov
+To Weigh (Qal)	לשקול	lish'kol
+To Think (Qal)	לחשוב	lakh'shov
+To Feel, Sense (Hifil)	להרגיש	l'har'gish
+To Miss (Hifil)	להחמיץ	l'hakh'mitz
+Prime Minister	ראש-ממשלה	rosh-mem'shalah
+Weapon	כלי-נשק	k'li neshek
+Bodyguard	שומר-ראש	shomer rosh
+Timeout	פסק-זמן	pesek z'man
+Taxi Driver	נהג-מונית	nahag monit
+Watch Tower	מגדל-שמירה	migdal sh'mirah
+Stopwatch	שעון-עצר	sh'on etzer
+Workshop	בית-מלאכה	beit m'la'khah
+Vocabulary	אוצר-מילים	otzar milim
+Toolbox	ארגז-כלים	ar'gaz kelim
+Mailbox	תיבת-דואר	tevat do'ar
+The PM's Office	משרד ראש-הממשלה	mish'rad rosh hamem'khalah
+The Window of the Guestroom	חלון חדר-האורחים	khalon khadar ha'or'khim
+Safety/Seat Belt	חגורת-בטיחות	khagorat b'tikhut
+Bookworm	תולעת-ספרים	tola'at s'farim
+Lunch/Food Break	הפסקת-אוכל	haf'sakat okhel
+Brainwash	שטיפת-מוח	sh'tifat moakh
+U-Turn	פניית-פרסה	p'niyat par'sah
+Toothbrush	מברשת-שיניים	miv'reshet shinayim
+Toothpaste	משחת-שיניים	mish'khat shinayim
+(Shaving) Razor	סכין-גילוח	sakin giluakh
+Birthday Cake	עוגת יום-הולדת	ugat yom-khuledet
+If (Haven't/Can't Happen) (Conj)	לו	lu
+If (Haven't/Can't Happen) (Conj)	אילו	elu
+If Not (Conj)	לולא	ule
+If Not (Conj)	אילולא	ilule
+Could Have (Conditional)	היה יכול	hayah yakhol
+Should Have (Conditional)	היה צריך	hayah tzarikh
+I Was (1.c.s) (Qal)	הייתי	hayiti
+You Were (2.m.s) (Qal)	היית	hayita
+You Were (2.f.s) (Qal)	היית	hayit
+He Was (3.m.s) (Qal)	היה	hayah
+She Was (3.f.s) (Qal)	הייתה	hai'tah
+We Were (1.c.p) (Qal)	היינו	hayinu
+You Were (2.m.p) (Qal)	הייתם	heyitem
+You Were (2.f.p) (Qal)	הייתן	heyiten
+They Were (3.c.p) (Qal)	היו	hayu
+Head	ראש	rosh
+Heart	לב	lev
+Chest, Breast	חזה	khazeh
+Neck	צוואר	tzavar
+Hair	שיער	se'ar
+Elbow	מרפק	mar'pek
+Face	פנים	panim
+Skin	עור	or
+Back	גב	gav
+Body	גוף	guf
+Brain	מוח	moakh
+Mouth	פה	peh
+Nose	אף	af
+Muscle	שריר	sh'rir
+Patient	מטופל	m'tupal
+Virus	וירוס	virus
+Organ	איבר	eivar
+Dream	חלום	khalom
+Pain	כאב	k'ev
+Treatment	טיפול	tipul
+Blood	דם	dam
+Pressure	לחץ	lakhatz
+Pregnancy	הריון	herayon
+Drug	סם	sam
+Cancer	סרטן	sar'ton
+Surgery, Operation	ניתוח	nituakh
+Hand	יד	yad
+Eye	עין	ayin
+Arm	זרוע	z'roa
+Finger	אצבע	etz'ba
+Ear	אוזן	oren
+Palm (And Back of Hand)	כף-יד	kaf yad
+Abdomen	בטן	beten
+Tongue	לשון	lashon
+Tooth	שן	shen
+Leg	רגל	regel
+Bone	עצם	etzem
+Foot	כף-רגל	kaf releg
+Knee	ברך	berekh
+Shoulder	כתף	katef
+Disease	מחלה	makhalah
+Skull	גולגולת	gul'golet
+Medicine	תרופה	t'rufah
+Nurse	אחות	akhot
+Lip, Language	שפה	safah
+Clinic	מרפאה	mir'pa'ah
+Medicine (Field)	רפואה	r'fu'ah
+Health	בריאות	b'ri'ut
+Diet	דיאטה	di'etah
+Birth	לידה	ledah
+Sick (m.s)	חולה	kholeh
+I Will Say (1.c.s) (Qal)	אומר	omar
+They Will Work (3.m.p) (Qal)	יעבדו	ya'av'du
+You'll Find, Encounter (3.f.s) (Qal)	תמצא	tim'tza
+He/It Will Sell (3.m.s) (Qal)	ימכור	yim'kor
+They Will Return (Intran.) (3.m.p) (Qal)	יחזרו	yakh'z'ru
+He/It Will Know (3.m.s) Qal)	ידע	yeda
+They Will Learn, Study (3.m.p) (Qal)	ילמדו	yil'm'du
+You Will Forget (2.m.s) (Qal)	תשכח	tish'kakh
+He/It Will Read (3.m.s) (Qal)	יקרא	yik'ra
+He/It Will Take (3.m.s) (Qal)	יקח	yikakh
+I'll Stop, Halt (Qal)	אעצור	e'etzor
+They Will Put, Put On (3.m.p) (Qal)	ישימו	yasimu
+He/It Will Want (Qal)	ירצה	yir'tzeh
+He/It Will Suggest (3.m.s) (Hifil)	יציע	yatzi'a
+I'll Mix (Piel)	אערבב	a'ar'bev
+You Will Feel (2.m.s) (Hifil)	תרגיש	tar'gish
+He/It Will Continue (3.m.s) (Hifil)	ימשיך	yam'shikh
+We Will Replace (Hifil)	נחליף	nakhalif
+He/It Will Pray (3.m.s) Hitpael)	יתפלל	yit'palel
+He/It Will Be Able To (3.m.s) (Qal)	יוכל	yukhal
+He/It Will Fill (3.m.s) (Piel)	ימלא	y'male
+He/It Will Learn (3.m.s) (Qal)	ילמד	yil'mad
+He/It Will Wait, Await (2.m.s) (Piel)	תחכה	t'khakeh
+We Will Win (1.c.p) (Piel)	ננצח	n'natzakh
+They Will Ask (3.m.p) (Piel)	יבקשו	y'vak'shu
+I Will Hope (1.c.s) (Piel)	אקווה	akaveh
+He/It Will Hold, Help (3.m.s) (Qal)	יעזור	ya'azor
+They Will Touch (3.m.p) (Qal)	יגעו ב-	yig'u
+She/It Will Close (3.f.s) (Qal)	תסגור	tis'gor
+Will Open, Unlock (Qal)	אפתח	ef'takh
+They Will Tell (3.m.p) (Piel)	יספרו	y'sap'ru
+He/It Will Ask (3.m.s) (Qal)	ישאל	yish'al
+I Will Break, Shatter (Qal)	אשבור	esh'bor
+They Will Succeed (3.m.p) (Qal)	יצליחו	yatz'likhu
+God	אלוהים	elohim
+Jew	יהודי	y'hudi
+Christian	נוצרי	notz'ri
+Muslim	מוסלמי	mus'l'mi
+Buddhist	בודהיסטי	bud'his'ti
+Angel	מלאך	mal'akh
+God	אל	el
+Islam	אסלאם	is'lam
+Temple	מקדש	mik'dash
+Messiah	משיח	mashiakh
+Temple Mount	הר הבית	har habayit
+Al-Aqsa Mosque	מסגד אל-אקצא	mis'gad el-aktza
+Mount Zion	הר ציון	har tziyon
+Mount of Olives	הר הזיתים	har hazeitim
+The Western Wall	הכותל המערבי	hakotel hama'aravi
+Religion	דת	dat
+Faith, Belief	אמונה	emunah
+Prayer	תפילה	t'filah
+Christianity	נצרות	natz'rut
+Soul	נשמה	n'shamah
+Judaism	יהדות	yahadot
+Dome of the Rock	כיפת הסלע	kipat hasela
+Church of the Holy Sepulchre	כנסיית הקבר	k'nesiyat hakever
+Cave of the Patriarchs	מערת המכפלה	m'arat hamakh'pelah
+Religious (m.s)	דתי	dati
+Spiritual (m.s)	רוחני	rukhani
+Jewish (m.s)	יהודי	y'hudi
+Secular (m.s)	חילוני	khilon
+Holy (m.s)	קדוש	kadosh
+Style	סגנון	sig'non
+Photography	צילום	tzilum
+Photographer	צלם	tzalam
+Dance	ריקוד	rikud
+Dancer	רקדן	rak'dan
+Audience, Crowd	קהל	kahal
+Collection	אוסף	osef
+Illustration	איור	iyur
+Paintbrush	מכחול	mikh'khol
+Painting	ציור	tziyur
+Theatre, Theater	תיאטרון	te'at'ron
+Studio	סטודיו	s'tud'yo
+Sculpture	פסל	pesel
+Producer	מפיק	mefik
+Script	תסריט	tes'rit
+Studio	אולפן	ul'pan
+Soundtrack	פסקול	pas'kol
+Effect	אפקט	efek't
+Film	סרט	seret
+Camera	מצלמה	matz'lemah
+Arts	אמנות	amanah
+Character, Figure	דמות	d'mut
+Literature	ספרות	sif'rut
+Fashion	אופנה	af'nah
+Poetry	שירה	shirah
+Gallery	גלריה	galer'yah
+Show (Theater), Performance	הצגה	hatzagah
+Stage, Platform	במה	bamah
+No; Not (Particle)	אל	el
+Don't Be (Qal)	אל תהיה	el ti'yah
+Don't Touch (Qal)	אל תיגע	el ti'ga
+Don't Tell (Qal)	אל תאמר	el to'mar
+Don't Do (Qal)	אל תעשה	el ta'aseh
+Don't Take (Qal)	אל תיקח	el tikakh
+Don't Let, Allow (Qal)	אל תיתן	el titen
+Don't Close, Shut (Qal)	אל תסגור	el tis'gor
+Don't Open (Piel)	אל תפתח	el t'fateakh
+Don't Go (Qal)	אל תלך	el telekh
+Don't Stand (Qal)	אל תעמוד	el ta'amod
+Don't Forget (Qal)	אל תשכח	el tish'kakh
+Don't Send, Dispatch (Qal)	אל תשלח	el tish'lakh
+Don't Tell, Count (Piel)	אל תספר	el t'saper
+Don't Try (Piel)	אל תנסה	el t'naseh
+Don't Change (Piel)	אל תשנה	el t'shaneh
+Don't Speak (Piel)	אל תדבר	el t'daber
+Don't Ask, Borrow (Qal)	אל תשאל	el tish'al
+Don't Mix (Piel)	אל תערבב	el t'ar'bev
+Don't Wait (Piel)	אל תחכה	el t'khakeh
+Don't Listen (Hifil)	אל תקשיב	el tak'shiv
+Don't Feel (Hifil)	אל תרגיש	el tar'gish
+Don't Start (Hifil)	אל תתחיל	el tat'khil
+Don't Come (Hifil)	אל תגיע	el tagi'a
+Don't Explain (Hifil)	אל תסביר	el tas'bir
+Don't Decide (Hifil)	אל תחליט	el takh'lit
+Don't Drink (Qal)	אל תשתה	el tish'teh
+Don't Eat (Qal)	אל תאכל	el to'khal
+Don't Ignore (Hitpael)	אל תתעלם	el tit'alem
+Don't Use (Hitpael)	אל תשתמש	el tish'tamesh
+Search	חיפוש	khipus
+Site, Website	אתר	atar
+Homepage	עמוד-בית	amud habayit
+Internet	אינטרנט	in'ter'net
+Browser	דפדפן	daf'd'fan
+Data	נתונים	n'tunim
+Bug	באג	bag
+Programmer	מתכנת	m'takh'net
+Laptop	מחשב נייד	makh'shev nisa
+File	קובץ	kobetz
+E-Mail	מייל	mei'l
+Blog	בלוג	b'log
+Channel	ערוץ	arutz
+Information	מידע	meida
+Text	טקסט	tek's't
+Remote (Controller)	שלט	shalat
+Robot	רובוט	robot
+Stamp	בול	bul
+Password	סיסמא	sis'mah
+Keyboard	מקלדת	mik'ledet
+Hardware	חומרה	khom'rah
+Software	תוכנה	tokh'nah
+Network	רשת	reshet
+Download	הורדה	horadah
+Upload	העלאה	ha'ala'ah
+Message	הודעה	hoda'ah
+Communication, Media	תקשורת	tik'shoret
+News	חדשות	khadashah
+Postcard	גלויה	g'luyah
+To Download (Hifil)	להוריד	l'horid
+To Upload (Hifil)	להעלות	l'ha'alot
+To Turn Off (Light, Machine) (Piel)	לכבות	l'khabot
+To Press, Squeeze (Qal)	ללחוץ	lil'khotz
+To Turn/Switch On (Hifil)	להדליק	l'had'lik
+Research	מחקר	mekh'kar
+Science	מדע	mada
+Project	פרויקט	p'royek't
+Size	גודל	godel
+Distance	מרחק	mer'khak
+Weight	משקל	mish'kal
+Experiment	ניסוי	nisuy
+Article	מאמר	ma'amar
+Principle	עיקרון	ikaron
+Thermometer	מדחום	mad'khom
+Mineral	מחצב	makh'tzav
+Cycle	מחזור	makh'zor
+Scientist	מדען	mada
+Cell	תא	ta
+Gravity	כוח-משיכה	koakh ha-m'shikhah
+Ton, Tonne	טון	ton
+Kilogram	קילוגרם	kilog'ram
+Gram	גרם	g'ram
+Alcohol	אלכוהול	al'kohol
+Technology	טכנולוגיה	tekh'nolog'yah
+System, Method	שיטה	shitah
+Thesis	תזה	tezah
+Energy	אנרגיה	ener'g'yah
+Speed, Velocity	מהירות	m'hirut
+Sample	דגימה	d'gimah
+Edition	מהדורה	mahadurah
+Distribution	הפצה	hafatzah
+Mass	מסה	masah
+Definition	הגדרה	hag'darah
+Lab	מעבדה	ma'badah
+Formula, Equation	נוסחה	nus'khah
+Quality	איכות	eikhut
+Genetics	גנטיקה	genetikah
+Geography	גיאוגרפיה	ge'og'raf'yah
+Biology	ביולוגיה	biyolog'yah
+Chemistry	כימיה	kim'yah
+Physics	פיזיקה	fizikah
+Philosophy	פילוסופיה	filosof'yah
+Investigation	חקירה	khakirah
+Discovery	תגלית	tag'lit
+Reason, Motive	סיבה	sibah
+Theory	תאוריה	te'or'yah
+Fact	עובדה	uv'dah
+Electric (m.s)	חשמלי	khash'mali
+To Increase (Hifil)	להגביר	l'hag'bir
+To Decrease (Hifil)	להנמיך	l'han'mikh
+Violin	כינור	kinor
+Singer	זמר	zamar
+Song	שיר	shir
+Flute	חליל	khalil
+Instrument	כלי-נגינה	k'li n'ginah
+Drum	תוף	tof
+Piano	פסנתר	p'san'ter
+Synthesizer	סינתיסייזר	sin'tisai'zer
+Harp	נבל	nevel
+Genre	ז'אנר	janer
+Concert	קונצרט	kon'tzer't
+(Musician) Player	נגן	nagar
+Composer	מלחין	mal'khin
+Chorus	פזמון	piz'mon
+Stanza	בית	bayit
+Guitarist	גיטריסט	gitarist
+Chord	אקורד	akor'd
+Drummer	מתופף	m'tofef
+Violinist	כנר	kanar
+Microphone	מיקרופון	mik'rofon
+Speaker	רמקול	ram'kol
+Echo	הד	hed
+Conductor	מנצח	m'natzeakh
+Scale	סולם	sulam
+Oriental	ים-תיכוני	yam-tikhoni
+Tone, Sound	צליל	tz'lil
+Band	להקה	lahakah
+Guitar	גיטרה	gitarah
+Music	מוזיקה	muzikah
+Show	הופעה	hofa'ah
+Creation, Musical Piece	יצירה	y'tzirah
+Trumpet	חצוצרה	khatzotz'rah
+Tune	מנגינה	man'ginah
+Harmonica	מפוחית	mapukhit
+To Play (Instrument) (Piel)	לנגן	l'nagen
+To Compose (Hifil)	להלחין	l'hal'khin
+To Tune (Instrument) (Piel)	לכוון	l'khaven
+Ball	כדור	kadur
+Sport	ספורט	s'por't
+Player	שחקן	sakh'kan
+Game	משחק	mis'khak
+Soccer	כדורגל	kaduregel
+Basketball	כדורסל	kadur'sal
+Goal, Gate	שער	sha'ar
+Stadium	איצטדיון	itz'tad'yon
+Draw	תיקו	teiku
+Coach	מאמן	m'amen
+Racket	מחבט	makh'bet
+Volleyball	כדורעף	kadur'af
+Champion	אלוף	aluf
+Hat Trick	שלושער	sh'losha'ar
+Marathon	מרתון	maraton
+Gym	מכון כושר	m'khon kosher
+Step	צעד	tza'ad
+Field, Court	מגרש	mig'rash
+Penalty Kick	פנדל	pen'del
+Fan	אוהד	ohed
+Striker	חלוץ	khalutz
+Midfielder	קשר	kashar
+Defender	בלם	balam
+Goalkeeper	שוער	sho'er
+Trophy, Cup	גביע	gavi'a
+Athlete	אתלט	at'let
+Fitness	כושר	kosher
+Tennis	טניס	tenis
+Competition	תחרות	takharut
+Team	קבוצה	k'vutzah
+Point	נקודה	n'kudah
+Championship	אליפות	alifut
+Medal	מדליה	medal'yah
+Kick	בעיטה	b'itah
+Position	עמדה	em'dah
+Offence	התקפה	hat'kafah
+League	ליגה	ligah
+Swimming	שחייה	s'khiyah
+Olympics	אולימפיאדה	olim'p'ya'dah
+Overtime	הארכה	ha'arakhah
+Half	מחצית	makhatzit
+To Score (Hifil)	להבקיע	l'hav'ki'a
+Security	ביטחון	bitakhon
+Tax	מס	mas
+President, Leader, Chairman	נשיא	nasi
+Law	חוק	khok
+Peace	שלום	shalom
+Army	צבא	tzava
+Crime	פשע	pesha
+Leader	מנהיג	man'hig
+Freedom, Liberty	חופש	khofesh
+Arrest	מעצר	ma'atzar
+Campaign	קמפיין	kam'pei'n
+Congress	קונגרס	kon'g'res
+Speech	נאום	n'um
+Confrontation, Debate	עימות	imut
+Candidate	מועמד	ma'amad
+Parliament	פרלמנט	par'lamen't
+Bribe(ry)	שוחד	shokhar
+Governor	מושל	moshel
+MK (Member of Knesset)	חבר-כנסת	khaber k'neset
+Threat	איום	iyum
+Mayor	ראש-עיר	rosh ir
+Wealth	עושר	osher
+Minister	שר	sar
+Minstry of Finance	משרד-האוצר	mis'rad ha-otzar
+Ministry of Defence	משרד-הביטחון	mis'rad ha-bitakhon
+Ministry of Justice	משרד-המשפטים	mis'rad ha-mish'patim
+Ministry of Interior	משרד-הפנים	mis'rad ha-p'nim
+Ministry of Foreign Affairs	משרד-החוץ	mis'rad ha-khutz
+Government	ממשלה	mem'shalah
+War	מלחמה	mil'khamah
+(Legal) Right	זכות	z'khut
+Safety	בטיחות	b'tikhut
+Recommendation	המלצה	ham'latzah
+Economy	כלכלה	kal'kalah
+Municipality	עירייה	iriyah
+Policy	מדיניות	m'diniyut
+Elections	בחירות	b'khirot
+Strategy	אסטרטגיה	as't'rateg'yah
+Violence	אלימות	alimut
+Corruption	שחיתות	sh'khitut
+The Knesset	הכנסת	ha-k'neset
+(Worker's) Strike	שביתה	sh'vitah
+Guilt	אשמה	ish'mah
+(Political) Party	מפלגה	mif'lagah
+Puppy	כלבלב	k'lav'lav
+Kitten	חתלתול	khatul'tul
+Piglet	חזרזיר	khazar'zir
+Little Boy, Small Child (m)	ילדון	yal'don
+Teddy Bear	דובון	duvon
+Young Elephant	פילון	pilon
+Booklet	ספרון	sif'ron
+Calculator	מחשבון	makh'sh'von
+Towelette	מגבון	mag'von
+Saucer	צלוחית	tz'lokhit
+Motel, Inn	מלונית	m'lonit
+Small Bag	שקית	sakit
+Firefly	גחלילית	gakh'lilit
+Handle	ידית	yadit
+Straw	קשית	kashit
+Little Girl, Small Child (f)	ילדונת	yal'donet
+Tiny (m.s)	קטנטן	k'tan'tan
+Reddish (f.s)	אדמדמה	adam'damah
+Greenish (m.s)	ירקרק	y'rak'rak
+Blueish (m.s)	כחלחל	k'khal'khal
+Yellowish (m.s)	צהבהב	tz'hav'hav
+Palace	ארמון	ar'mon
+Dragon	דרקון	d'rakon
+Prince	נסיך	nasikh
+Arrow	חץ	khetz
+Shield	מגן	magen
+Feast, Banquet	משתה	mish'teh
+Knight	אביר	abir
+Armour	שיריון	shir'yon
+Warrior	לוחם	lokhem
+Potion	שיקוי	shikuy
+Spell, Witchraft	כישוף	kisuf
+Magic	קסם	kesem
+Magician	קוסם	kosem
+Wand	שרביט	sharbit
+Wizard	מכשף	m'khashef
+Servant	משרת	m'sharet
+Hero	גיבור	gibor
+Vampire	ערפד	ar'pad
+Zombie	זומבי	zom'bi
+Werewolf	איש-זאב	z'ev
+Golem	גולם	golem
+Superhero	גיבור-על	gibor-al
+Creature	יצור	y'tzur
+Legend	אגדה	agadah
+Princess	נסיכה	n'sikhah
+Sword	חרב	kherev
+Queen	מלכה	mal'kah
+Kingdom	ממלכה	mam'lakhah
+Bow	קשת	keshet
+Helmet	קסדה	kas'dah
+Witch	מכשפה	m'khashefah
+Wall	חומה	khomah
+Curse	קללה	k'lalah
+Monster	מפלצת	mif'letzet
+Sir	אדוני	adon
+Ma'am	גברתי	g'veret
+Please (interj)	נא	na
+Please (Flowery) (Interj)	אנא	ana
+We	אנו	anu
+Which (Conj)	אשר	asher
+Let's, Let's Go!, Come! (Conn)	הבה	havah
+Now, Currently	עתה	atah
+Is Not, No	אין	ein
+I Am Not	איני	eini
+You Are Not (m.s)	אינך	ein'kha
+You Are Not (f.s)	אינך	einekh
+He Is Not	אינו	eino
+She Is Not	אינה	einah
+We Are Not	איננו	eineni
+You Are Not (m.p)	אינכם	ein'khem
+You Are Not (f.p)	אינכן	ein'khen
+They Are Not (m.p)	אינם	einam
+They Are Not (f.p)	אינן	einan
+I Am Not (Alt)	אינני	eineni
+She Is Not (Alt)	איננה	einena
+Why?	מדוע?	madu'a
+How?, In What Manner?	כיצד?	keitzad
+From Where?	מאין?	me'ayon
+Where?	היכן?	heikhan
+And Where	ולאן?	ul'an
+What Is? (f)	מהי?	mahi
+Money	כסף	kesef
+Dollar	דולר	dolar
+Debt	חוב	khov
+Insurance	ביטוח	bituakh
+Shekel	שקל	shekel
+Ticket	כרטיס	kar'tis
+Business	עסקים	esekim
+Credit Card	כרטיס אשראי	kartis ash'rai
+Gold	זהב	zahav
+Price	מחיר	m'khir
+Brand	מותג	mutag
+Contract	חוזה	khozeh
+Euro	אירו	eiro
+Budget	תקציב	tak'tziv
+Change	עודף	odef
+Currency, Coin	מטבע	mat'bea
+Promotion	קידום	kidum
+Organization	ארגון	ir'gun
+Bill, Note, Deed	שטר	sh'tar
+Interview	ריאיון	re'ayon
+Manager	מנהל	m'nahel
+Advertisement	פרסום	pir'sum
+Value, Worth	שווי	shovi
+Commerce	מסחר	mis'khar
+Product	מוצר	mutzar
+Agent	סוכן	soken
+(Exchange) Rate	שער	sha'ar
+Risk	סיכון	sikun
+Investment	השקעה	hish'ka'ah
+Agora	אגורה	agorah
+Transaction, Deal	עסקה	is'kah
+Cost	עלות	alut
+Meeting	פגישה	p'gishah
+Company	חברה	khev'rah
+Salary, Wages	משכורת	mas'koret
+Industry	תעשייה	ta'asiyah
+Commercial	פרסומת	pir'somet
+Stock Market	בורסה	bur'sah
+Cash (m.s)	מזומן	m'zuman
+To Go UP, Rise (Qal)	לעלות	la'alot
+Venus	נגה	nogah
+Mars	מאדים	ma'dim
+Jupiter	צדק	tzedek
+Saturn	שבתאי	shab'tai
+(The) Outer Space	החלל החיצון	hekhalal hakhitzon
+Launch	שיגור	shigur
+Astronaut	אסטרונאוט	as't'rona'ut
+Satellite	לוויין	lav'yan
+Orbit	מסלול	mas'lul
+Meteor	מטאור	mete'or
+Crater	מכתש	makh'tesh
+(The) Milky Way	שביל-החלב	sh'vil hakhalav
+Black Hole	חור שחור	khor shakhor
+Eclipse	ליקוי	likuy
+Sun	חמה	khamah
+Solar System	מערכת-שמש	ma'arekhet hashemesh
+Probe	גשושית	gashoshit
+Spaceship	חללית	khalit
+Shuttle	מעבורת	ma'boret
+Galaxy	גלקסיה	galak's'yah
+Passover	פסח	pesakh
+Seder Night	ליל-הסדר	layil haseder
+Shavuot (Pl.)	שבועות	shavu'ot
+Holiday	חג	khag
+Yom Kippur	יום כיפור	yom kipur
+Rosh Ha'shana	ראש השנה	ro'sh hashanah
+Tisha Be'av	תשעה באב	tish'ah b'av
+High Holidays	ימים נוראים	hayamim hanora'im
+Fast	צום	tzom
+Sevivon	סביבון	s'vivon
+Purim	פורים	purim
+Chanukiya	חנוכייה	khanukiyah
+Tu Bi'shvat	"ט""ו בשבט"	tu bi'shvat
+Exodus	יציאת מצרים	y'tzi'at mitz'rayim
+Matzah	מצה	matzah
+Sukkah	סוכה	sukah
+Sukkot	סוכות	sukot
+Simchat Torah	שמחת תורה	sim'khat torah
+Ozen Haman	אוזן המן	ozen haman
+Chanukah	חנוכה	khanukhah
+Mishloach Manot	משלוח מנות	mish'loakh manot
+Sufganiya (Pl.)	סופגניה	suf'ganiyah
+To Celebrate (Qal)	לחגוג	lakh'gog
+Oleh Chadash	עולה חדש	oleh khadash
+Tzabar	צבר	tzabar
+Kibbutz	קיבוץ	kibutz
+Ulpan	אולפן	ul'pan
+Al-Ha'esh	על האש	al ha-esh
+Falafel	פלאפל	pal'pel
+Hummus	חומוס	khumus
+Yom Ha'atzmaut (Pl.)	יום העצמאות	yom ha-atz'ma'ot
+Mess	בלאגן	balagan
+Kineret	כנרת	kineret
+The Dead Sea	ים המלח	yam hamelakh
+Negev	נגב	negev
+The Red Sea (Pl.)	הים האדום	hayam ha'adom
+Bissli	ביסלי	bisli
+Matkot (Pl.)	מטקות	matkot
+Aliyah	עלייה	aliyah
+Pita	פיתה	pitah
+Middle-Eastern Music	מוזיקה מזרחית	muzikah miz'rakhit
+Metzada/Massada	מצדה	m'tzadah
+Eilat	אילת	eilat
+Haifa	חיפה	heifah
+Bamba	במבה	bam'bah
+Cherry Tomato	עגבניית שרי	ag'vaniyat sheri
+Shakshuka	שקשוקה	shak'shukah
+Kesarya	קיסריה	keisar'yah
+Tiberias	טבריה	t'ver'yah
+Be'er Sheva/Sheba	באר שבע	b'er sheva
