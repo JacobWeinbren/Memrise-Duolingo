@@ -1,0 +1,307 @@
+title,word,meaning
+Letters 1,האם,Is...?
+Letters 1,או,or
+Letters 1,הוא,he
+Phrases,להנות,to enjoy
+Phrases,בתיאבון,Bon Appetit
+Possess. 1,שיך,belongs
+Dir. Obj.,אותי,me
+Dir. Obj.,אותךָ,thee
+Dir. Obj.,אותךְ,thee
+Dir. Obj.,אותו,him
+Dir. Obj.,אותה,her
+Dir. Obj.,צריך,need
+Dir. Obj.,אותנו,us
+Dir. Obj.,אתכם,you
+Dir. Obj.,אתכן,you
+Dir. Obj.,אותם,them
+Dir. Obj.,אותן,them
+Numbers 1,מדי,too
+Questions,תשובה,answer
+Questions,שאלה,question
+Questions,את מי,whom
+Questions,אילו,which (pl.)
+Determiner,הזה,this (m)
+Determiner,האלו,these
+Determiner,כולן,all of them
+Determiner,אף אחד,nobody
+Determiner,הזאת,this (f)
+Determiner,אלה,these
+Determiner,כל,all
+Determiner,כזה,like this
+Determiner,אלו,these
+Determiner,כולם,everyone
+Determiner,שום,any
+Determiner,שום דבר,nothing
+Determiner,שום דבר מלבד,nothing but
+Determiner,אחר,other
+Determiner,משהו,something
+Determiner,שניהם,both
+Determiner,מישהו,someone
+Determiner,הכל,everything
+Determiner,אותו ה-,the same
+Determiner,ככה,"so, thus"
+Occupation,אכר,farmer
+Conjunc.,בזמן ש...,while
+Conjunc.,מתי ש...,when
+Conjunc.,אז,so
+Conjunc.,לכן,"so, that's why"
+Conjunc.,כש...,when
+Conjunc.,אחרי ש,after that
+Conjunc.,אך,"but, however, nevertheless"
+Conjunc.,לפני ש,before that
+Conjunc.,אלא,"but, only, however"
+Conjunc.,אף,"also, even"
+Prep. 2,נמצא,"to be found, present"
+Prep. 2,אצל,"at, in the possession of"
+Prep. 2,מאחורי,behind
+Prep. 2,מתחת,below
+Prep. 2,מעל,above
+Prep. 2,אך ורק,only (stressed)
+Time,שנה,year
+Time,הבאה,next
+Time,מאה,century
+Time,עד,till
+Time,מסיבה,party
+Time,מהלך,"process, development"
+Adj. 2,רבות,many
+Adverbs,ממש,"really, very"
+Adverbs,הרחק,far away
+Adverbs,כרגע,just now
+Adverbs,משך,duration
+Adverbs,ברור,clearly
+Adverbs,לאט,slowly
+Adverbs,מהר,quickly
+Adverbs,אופן,"method, mode"
+Home,לנקות,to clean
+Home,לעבור,to pass
+Home,לשאוב,"to pump, to vacuum"
+Home,לשוטפ,"wash, clean, rinse"
+Weather,ירד,descend
+Weather,לזרח,to shine
+Weather,בהיר,bright
+Weather,מטפטפת,"dripping, drizzling"
+Places,לתוך,"into, inside"
+Places,מתוך,"from, out of"
+People,קרן,foundation
+People,בן אדם,human being
+People,בחורות,young woman
+People,בחור,young man
+People,מבגר,adult
+Numbers 2,לשנות,to change
+Numbers 2,ועוד,plus
+Numbers 2,כפול,x times
+Numbers 2,חלקי,divided
+Numbers 2,האחרון,the last
+Numbers 2,מינוס,minus
+Numbers 2,שוה,equals
+Numbers 2,פחות,less
+Modals,יכול,can
+Modals,חיב,have to
+Modals,אמור,supposed
+Modals,אסור,forbidden
+Modals,מומלץ,recommended
+Modals,עשוי,might
+Modals,אפשר,allowed
+Modals,מותר,permitted
+Education,מכון,institute
+Travel,מסביב,all around
+Objects,רומן,novel
+Pres. Reflex,אחד (-)שני,each other
+Adj. 3,מטומטם,dumb
+Emergency!,לבצע,"to perform, to execute"
+Emergency!,להתעלף,"to pass out, to faint, to swoon"
+Emergency!,הכרה,consciousness
+Emergency!,מתחשמל,electrocuted
+Emergency!,ליפול,to fall
+Emergency!,לטבוע,to drown
+Future 1,עתיד,future
+Future 1,עבר,past
+Future 1,הווה,present
+Passive,מופרע,disturbed
+Ref. Pron.,עצמי,myself
+Ref. Pron.,עצמךָ,yourself (m. sg.)
+Ref. Pron.,עצמךְ,yourself (f. sg.)
+Ref. Pron.,עצמו,himself
+Ref. Pron.,עצמה,herself
+Ref. Pron.,עצמנו,ourselves
+Ref. Pron.,עצמכם,yourselves (m. pl.)
+Ref. Pron.,עצמכן,yourselves (f. pl.)
+Ref. Pron.,עצמם,themselves (m. pl.)
+Ref. Pron.,עצמן,themselves (f. pl.)
+Nif'al,הקודם,"the previous, the former"
+Nif'al,על ידי,by
+Nif'al,להיאבד,to be lost
+Decisions,להביע,to express
+Decisions,תהה,to wonder
+Decisions,לבחור,to choose
+Decisions,עדיף,preferable
+Imper. 2,בוא נלך,let's go
+Imper. 2,בוא נעשה,let's do
+Imper. 2,בוא ננסה,let's try
+Imper. 2,בוא נראה,let's see
+Imper. 2,בוא נדבר,let's talk
+Imper. 2,בוא נגיד,let's say
+Feelings,לצפות,to expect
+Geometry,משולש,triangle
+Geometry,ריבוע,square
+Geometry,עיגול,circle
+Geometry,מלבן,rectangle
+Geometry,קו,line
+Geometry,צורה,shape
+Geometry,מרובע,quadrilateral
+Geometry,מקבילה,parallel
+Geometry,קודקוד,vertex
+Geometry,טרפז,trapeze
+Geometry,אליפסה,ellipse
+Geometry,מעין,rhombus
+Geometry,זויות,angle
+Geometry,מחומש,pentagon
+Geometry,משושה,hexagonal
+Geometry,צלע,"side, edge"
+Geometry,גיאומטריה,geometry
+Geometry,מקבילית,parallelogram
+Geometry,טריגונומטריה,trigonometry
+Geometry,אורך,length
+Geometry,רוחב,width
+Geometry,גובה,height
+Geometry,עֹמק,depth
+Geometry,משטח,surface
+Geometry,נפח,volume
+Geometry,מטר,meter
+Geometry,בקילומטרים,in kilometers
+Geometry,סנטימטר,centimeter
+Geometry,מילימטר,milimeter
+Geometry,יחידת מידה,unit of measure
+Geometry,למדוד,measure
+Geometry,סרגל,ruler
+Infinitiv. 2,לסרב,to refuse
+Condit.,לוּ,if (haven't/can't happen)
+Condit.,אִילו,if (haven't/can't happen)
+Condit.,לולא,If not
+Condit.,אילולא,If not
+Condit.,היה יכול,could have
+Condit.,היה צריך,should have
+Condit.,הייתי,I was
+Condit.,הייתָ,you were (m. sg.)
+Condit.,הייתְ,you were (f. sg.)
+Condit.,היה,he was
+Condit.,הייתה,she was
+Condit.,היינו,we were
+Condit.,הייתם,you were (m. pl.)
+Condit.,הייתן,you were (f. pl.)
+Condit.,היו,they were (c. pl.)
+Future 2,אומַר,I will say
+Future 2,יעבדו,they will work
+Future 2,תמצא,you'll find
+Future 2,ימכור,will sell
+Future 2,יחזרו,will return
+Future 2,יֵדע,will know
+Future 2,ילמדו,they will learn
+Future 2,תשכח,you will forget
+Future 2,יקרא,will read
+Future 2,יקח,will take
+Future 2,אעצור,I'll stop
+Future 2,ישימו,they will put
+Future 2,ירצה,will want
+Future 2,יציע,will suggest
+Future 2,אערבב,I'll mix
+Future 2,תרגיש,you will feel
+Future 2,ימשיך,will continue
+Future 2,נחליף,we will replace
+Future 2,יתפלל,will pray
+Future 2,יוכל,will be able to
+Future 2,ימלא,will fill
+Future 2,ילמֵד,will learn
+Future 2,תחכה,will wait
+Future 2,ננצח,we will win
+Future 2,יבקשו,the will ask
+Future 2,אקווה,I will hope
+Future 2,יעזור,will held
+Future 2,יגעו,they will touch
+Future 2,תסגור,will close
+Future 2,אפתח,will open
+Future 2,יספרו,they will tell
+Future 2,ישאל,will ask
+Future 2,אשבור,I will break
+Future 2,יצליחו,will succeed
+Neg. Imp.,אל,don't
+Neg. Imp.,אל תהיה,don't be
+Neg. Imp.,אל תיגע,don't touch
+Neg. Imp.,אל תאמר,don't tell
+Neg. Imp.,אל תעשה,don't do
+Neg. Imp.,אל תיקח,don't take
+Neg. Imp.,אל תיתן,don't let
+Neg. Imp.,אל תסגור,don't close
+Neg. Imp.,אל תפתח,don't open
+Neg. Imp.,אל תלך,don't go
+Neg. Imp.,אל תעמוד,don't stand
+Neg. Imp.,אל תשכח,don't forget
+Neg. Imp.,אל תשלח,don't send
+Neg. Imp.,אל תספר,"don't tell, count"
+Neg. Imp.,אל תנסה,don't try
+Neg. Imp.,אל תשנה,don't change
+Neg. Imp.,אל תדבר,don't speak
+Neg. Imp.,אל תשאל,don't ask
+Neg. Imp.,אל תערבב,don't mix
+Neg. Imp.,אל תחכה,don't wait
+Neg. Imp.,אל תקשיב,don't listen
+Neg. Imp.,אל תרגיש,don't feel
+Neg. Imp.,אל תתחיל,don't start
+Neg. Imp.,אל תגיע,don't come
+Neg. Imp.,אל תסביר,don't explain
+Neg. Imp.,אל תחליט,don't decide
+Neg. Imp.,אל תשתה,don't drink
+Neg. Imp.,אל תאכל,don't eat
+Neg. Imp.,אל תתעלם,don't ignore
+Neg. Imp.,אל תשתמש,don't use
+Verbal N.,דרישה,requirement
+Sports,קשר,midfielder
+Diminutives,כלבלב,puppy
+Diminutives,חתלתול,kitten
+Diminutives,קטנטן,tiny
+Diminutives,אדמדמה,reddish
+Diminutives,ירקרק,greenish
+Diminutives,כחלחל,blueish
+Diminutives,צהבהב,yellowish
+Diminutives,חזרזיר,piglet
+Diminutives,צלוחית,saucer
+Diminutives,מלונית,"motel, inn"
+Diminutives,שקית,small bag
+Diminutives,גחלילית,firefly
+Diminutives,ידית,handle
+Diminutives,קשית,straw
+Diminutives,ילדון,little boy
+Diminutives,ילדונת,little girl
+Diminutives,דובון,teddy bear
+Diminutives,פילון,young elephant
+Diminutives,ספרון,booklet
+Diminutives,מחשבון,calculator
+Diminutives,מגבון,towelette
+Formal,נא,please
+Formal,מדוע,why
+Formal,כיצד,how
+Formal,אדוני,sir
+Formal,גברתי,ma'am
+Formal,עתה,now
+Formal,מאין,from where
+Formal,היכן,where
+Formal,ולאן,and where
+Formal,מהי,what is
+Formal,אנא,please
+Formal,אנו,we
+Formal,אשר,which
+Formal,הבה,let's
+Formal,אין,is not
+Formal,איני,I am not
+Formal,אינךָ,you are not
+Formal,אינךְ,you are not
+Formal,אינו,he is not
+Formal,אינה,she is not
+Formal,איננו,we are not
+Formal,אינכם,you are not
+Formal,אינכן,you are not
+Formal,אינם,they are not
+Formal,אינן,they are not
+Formal,אינני,I am not
+Formal,איננה,she is not
