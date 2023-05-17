@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from transformers import AutoTokenizer, AutoModel
 import torch
 from scipy.spatial.distance import cosine
+import unicodedata
 
 # Function to get SBERT embeddings for given sentences
 def get_sbert_embeddings(model, tokenizer, sentences):
@@ -19,84 +20,49 @@ def semantic_similarity(sentence1, sentence2, model, tokenizer):
     similarity_score = 1 - cosine(embeddings[0], embeddings[1])
     return similarity_score
 
+# Function to remove Hebrew vowels
+def strip_vowels(hebrew_text):
+    return ''.join(c for c in unicodedata.normalize('NFD', hebrew_text) if unicodedata.category(c) != 'Mn')
+
+# Load SBERT model and tokenizer
 model_name = "sentence-transformers/paraphrase-distilroberta-base-v1"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModel.from_pretrained(model_name)
 
-import unicodedata
-
-def strip_vowels(hebrew_text):
-    return ''.join(c for c in unicodedata.normalize('NFD', hebrew_text) if unicodedata.category(c) != 'Mn')
-
 def searchWord(hebrew, initial_translation):
+    try:
+        # Request to get verb search results for the given Hebrew word
+        response = requests.get(f'https://www.pealim.com/search/?q={hebrew}')
+        soup = BeautifulSoup(response.text, 'html.parser')
+        search_results = soup.find_all('div', class_='verb-search-result')
 
-  try:
-      # Sending a get request to the pealim.com with the search word
-      response = requests.get(f'https://www.pealim.com/search/?q={hebrew}')
+        # Store the translation and link of each search result
+        translations = {result.find('div', class_='vf-search-tpgn-and-meaning').get_text().split(":")[1]: result.find('div', class_='verb-search-lemma').find('a').get('href') for result in search_results}
 
-      # Parsing the response text
-      soup = BeautifulSoup(response.text, 'html.parser')
+        # Find the translation with the highest semantic similarity to the initial translation
+        most_similar_word = max(translations, key=lambda translation: semantic_similarity(initial_translation, translation, model, tokenizer))
 
-      # Extracting the page header text
-      page_title = soup.find('h3', class_='page-header').get_text()
+        # Request to get the conjugation table of the most similar word
+        response = requests.get(f'https://www.pealim.com{translations[most_similar_word]}')
+        soup = BeautifulSoup(response.text, 'html.parser')
+        table_rows = soup.find('table').find('tbody').find_all('tr')
 
-      # Finding all divs containing verb search results
-      search_results = soup.find_all('div', class_='verb-search-result')
+        # Find the row that contains the given Hebrew word
+        correct_row = next((i for i, row in enumerate(table_rows) if strip_vowels(row.find('span', class_='menukad').get_text()) == hebrew), None)
 
-      # List to store query results
-      query_results = []
-
-      # Iterating over each verb in the search results
-      translations = {}
-      for verb in search_results:
-
-          link = verb.find('div', class_='verb-search-lemma').find('a').get('href')
-          translation = verb.find('div', class_='vf-search-tpgn-and-meaning').get_text().split(":")[1]
-
-          translations[translation] = link
-
-      max_similarity = 0
-      similarity = 0
-
-      for translation in translations.keys():
-          similarity = semantic_similarity(initial_translation, translation, model, tokenizer)
-          if similarity > max_similarity:
-              max_similarity = similarity
-              most_similar_word = translation
-
-      print(most_similar_word)
-
-      link = translations[most_similar_word]
-
-      response = requests.get(f'https://www.pealim.com{link}')
-      soup = BeautifulSoup(response.text, 'html.parser')
-
-      # Extracting the conjugation table rows
-      table_rows = soup.find('table').find('tbody').find_all('tr')
-
-      correct_row = False
-
-      # Iterating over each row in the conjugation table
-      for a, row in enumerate(table_rows):
-          # Extracting details from each column in the row
-          columns = row.find_all('td')
-          for b, column in enumerate(columns):   
-            word = strip_vowels(column.find('span', class_='menukad').get_text())
-            if word == hebrew:
-                correct_row = a
-
-      for a, row in enumerate(table_rows):
-        if a == correct_row:
-          for b, column in enumerate(columns):   
-            column_details = {
-                'word': column.find('span', class_='menukad').get_text(),
-                'transcription': column.find('div', class_='transcription').get_text(),
-                'meaning': column.find('div', class_='meaning').get_text(),
-            }
-            print(column_details)
-
-  # Handling any exceptions during the process
-  except AssertionError as error:
-      print('There was an error')
+        # If the Hebrew word was found in the conjugation table, print the details of the row
+        if correct_row is not None:
+            columns = table_rows[correct_row].find_all('td')
+            for column in columns:   
+                column_details = {
+                    'word': column.find('span', class_='menukad').get_text(),
+                    'transcription': column.find('div', class_='transcription').get_text(),
+                    'meaning': column.find('div', class_='meaning').get_text(),
+                }
+                print(column_details)
+        else:
+            print('Hebrew word not found in the conjugation table of the most similar word.')
+    except Exception as error:
+        print('There was an error:', error)
 
 searchWord("להראות", "to show")
