@@ -1,80 +1,102 @@
-## IMPORTS
+# Importing necessary libraries
 import requests
 from bs4 import BeautifulSoup
-import sys
-import json
+from transformers import AutoTokenizer, AutoModel
+import torch
+from scipy.spatial.distance import cosine
 
-## GET WORD TO SEARCH
-query = input('Word to search: ')
+# Function to get SBERT embeddings for given sentences
+def get_sbert_embeddings(model, tokenizer, sentences):
+    inputs = tokenizer(sentences, return_tensors='pt', padding=True, truncation=True, max_length=512)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    embeddings = outputs.pooler_output
+    return embeddings
 
-## GET PEALIM
-## TODO: Make json and save it in MongoDb
-try:
-  r = requests.get('https://www.pealim.com/search/?q=' + query)
-  soup = BeautifulSoup(r.text, 'html.parser')
-  title = soup.find('h3', class_='page-header').get_text()
-  result = soup.find_all('div', class_='verb-search-result')
-  queryResult = list()
-  for verb in result:
-    ## HEADER
-    idWord = verb.find('div', class_='verb-search-lemma').find('a').get('href').split('-')[0][6:10]
-    link = verb.find('div', class_='verb-search-lemma').find('a').get('href')
-    word = verb.find('span', class_='menukad').get_text()
-    form = verb.find('div', class_='vf-search-hebrew').find('span', class_='menukad').get_text()
-    formTranscription = verb.find('div', class_='vf-search-hebrew').find('span', class_='transcription').get_text()
-    translation = verb.find('div', class_='vf-search-tpgn-and-meaning').get_text()
+# Function to compute semantic similarity between two sentences
+def semantic_similarity(sentence1, sentence2, model, tokenizer):
+    embeddings = get_sbert_embeddings(model, tokenizer, [sentence1, sentence2])
+    similarity_score = 1 - cosine(embeddings[0], embeddings[1])
+    return similarity_score
 
-    ## CONJUGATION
-    r = requests.get('https://www.pealim.com' + link)
-    soup = BeautifulSoup(r.text, 'html.parser')
-    table = soup.find('table').find('tbody').find_all('tr')
+model_name = "sentence-transformers/paraphrase-distilroberta-base-v1"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModel.from_pretrained(model_name)
 
-    columnsList = list()
-    conjugation = list()
-    verbForm = {}
+import unicodedata
 
-    for row in table:
-      verbFormTitle = ''
-      if len(row.find_all('th')) > 0:
-        verbFormTitle = row.find_all('th')[0].get_text()
-      columns = row.find_all('td')
-      for column in columns:
-        columnDetails = {
-          'word': column.find('span', class_='menukad').get_text(),
-          'transcription': column.find('div', class_='transcription').get_text(),
-          'meaning': column.find('div', class_='meaning').get_text(),
-        }
-        columnsList.append(columnDetails)
-      verbForm = {
-        'title': verbFormTitle,
-        'forms': columnsList,
-      }
-      conjugation.append(verbForm)
+def strip_vowels(hebrew_text):
+    return ''.join(c for c in unicodedata.normalize('NFD', hebrew_text) if unicodedata.category(c) != 'Mn')
 
-      
+def searchWord(hebrew, initial_translation):
 
-    header = {
-      'id': idWord,
-      'link': 'https://www.pealim.com' + link,
-      'word': word,
-      'form': form,
-      'transcription': formTranscription,
-      'translation': translation,
-    }
+  try:
+      # Sending a get request to the pealim.com with the search word
+      response = requests.get(f'https://www.pealim.com/search/?q={hebrew}')
 
-    data = {
-      'header': header,
-      'conjugation': conjugation,
-    }
+      # Parsing the response text
+      soup = BeautifulSoup(response.text, 'html.parser')
 
-    queryResult.append(data)
+      # Extracting the page header text
+      page_title = soup.find('h3', class_='page-header').get_text()
 
-  resultJson = {
-    'query': title,
-    'results': queryResult,
-  }
+      # Finding all divs containing verb search results
+      search_results = soup.find_all('div', class_='verb-search-result')
 
-  print(resultJson)
+      # List to store query results
+      query_results = []
 
-except AssertionError as error:
-  print('There was an error')
+      # Iterating over each verb in the search results
+      translations = {}
+      for verb in search_results:
+
+          link = verb.find('div', class_='verb-search-lemma').find('a').get('href')
+          translation = verb.find('div', class_='vf-search-tpgn-and-meaning').get_text().split(":")[1]
+
+          translations[translation] = link
+
+      max_similarity = 0
+      similarity = 0
+
+      for translation in translations.keys():
+          similarity = semantic_similarity(initial_translation, translation, model, tokenizer)
+          if similarity > max_similarity:
+              max_similarity = similarity
+              most_similar_word = translation
+
+      print(most_similar_word)
+
+      link = translations[most_similar_word]
+
+      response = requests.get(f'https://www.pealim.com{link}')
+      soup = BeautifulSoup(response.text, 'html.parser')
+
+      # Extracting the conjugation table rows
+      table_rows = soup.find('table').find('tbody').find_all('tr')
+
+      correct_row = False
+
+      # Iterating over each row in the conjugation table
+      for a, row in enumerate(table_rows):
+          # Extracting details from each column in the row
+          columns = row.find_all('td')
+          for b, column in enumerate(columns):   
+            word = strip_vowels(column.find('span', class_='menukad').get_text())
+            if word == hebrew:
+                correct_row = a
+
+      for a, row in enumerate(table_rows):
+        if a == correct_row:
+          for b, column in enumerate(columns):   
+            column_details = {
+                'word': column.find('span', class_='menukad').get_text(),
+                'transcription': column.find('div', class_='transcription').get_text(),
+                'meaning': column.find('div', class_='meaning').get_text(),
+            }
+            print(column_details)
+
+  # Handling any exceptions during the process
+  except AssertionError as error:
+      print('There was an error')
+
+searchWord("להראות", "to show")
