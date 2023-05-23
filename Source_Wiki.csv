@@ -1,14 +1,14 @@
 Skill,Word
-Letters 1,בא
-Letters 1,באה
-Letters 1,אבא
-Letters 1,האבא
-Letters 1,אהבה
-Letters 1,אמא
-Letters 1,האמא
-Letters 1,האם
+Letters 1,בא 
+Letters 1,באה 
+Letters 1,אבא 
+Letters 1,האבא 
+Letters 1,אהבה 
+Letters 1,אמא 
+Letters 1,האמא 
+Letters 1,האם 
 Letters 1,ואמא
-Letters 1,או
+Letters 1,או 
 Letters 1,הוא
 Letters 1,אוהב
 Letters 1,ואבא
@@ -75,14 +75,14 @@ Letters 3,טעים
 Phrases,שלום
 Phrases,תודה
 Phrases,להתראות
-Phrases,מהנשמע
-Phrases,מהקורה
-Phrases,מהשלומך
-Phrases,מהשלומך
+Phrases,מה נשמע
+Phrases,מה קורה
+Phrases,מה שלומך
+Phrases,מה שלומך
 Phrases,בסדר
 Phrases,סליחה
 Phrases,בבקשה
-Phrases,איןבעדמה
+Phrases,אין בעד מה
 Phrases,לילה
 Phrases,בוקר
 Phrases,ערב
@@ -91,15 +91,15 @@ Phrases,עברית
 Phrases,אנגלית
 Phrases,מדבר
 Phrases,יוסי
-Phrases,ברוךהבא
-Phrases,ברוכההבאה
-Phrases,ברוכיםהבאים
-Phrases,ברוכותהבאות
+Phrases,ברוך הבא
+Phrases,ברוכה הבאה
+Phrases,ברוכים הבאים
+Phrases,ברוכות הבאות
 Phrases,טל
-Phrases,קוראיםלי
+Phrases,קוראים לי
 Phrases,בהצלחה
-Phrases,מזלטוב
-Phrases,תודהרבה
+Phrases,מזל טוב
+Phrases,תודה רבה
 Phrases,תהנה
 Phrases,תהני
 Phrases,תהנו
@@ -134,8 +134,8 @@ Food 1,צלחת
 Food 1,דג
 Food 1,קפה
 Food 1,ביצה
-Food 1,ארוחתצהריים
-Food 1,ארוחתבוקר
+Food 1,ארוחת צהריים
+Food 1,ארוחת בוקר
 Food 1,פרי
 Food 1,פסטה
 Food 1,סוכר
@@ -148,7 +148,7 @@ Food 1,מרק
 Food 1,שמן
 Food 1,לימון
 Food 1,בננה
-Food 1,ארוחתערב
+Food 1,ארוחת ערב
 Food 1,כריך
 Food 1,מלח
 Food 1,רעב
@@ -185,7 +185,7 @@ Animals,נחש
 Animals,קוף
 Animals,זנב
 Animals,דבורה
-Animals,חייתמחמד
+Animals,חיית מחמד
 Animals,ינשוף
 Animals,פרה
 Animals,תרנגול
@@ -258,12 +258,12 @@ Food 2,בצל
 Food 2,ריבה
 Food 2,ענב
 Food 2,אבוקדו
-Food 2,תפוחאדמה
+Food 2,תפוח אדמה
 Food 2,משקה
 Food 2,דובדבן
 Food 2,מסטיק
 Food 2,גלידה
-Food 2,משקאותחריפים
+Food 2,משקאות חריפים
 Food 2,מנגו
 Food 2,שום
 Food 2,ריח
@@ -285,7 +285,7 @@ Clothing,חגורה
 Clothing,חובש
 Clothing,בגדים
 Clothing,משקפיים
-Clothing,משקפישמש
+Clothing,משקפי שמש
 Clothing,כפפה
 Clothing,טבעת
 Clothing,עונד
@@ -455,24 +455,24 @@ Numbers 1,תשע
 Numbers 1,תשעה
 Numbers 1,עשר
 Numbers 1,עשרה
-Numbers 1,אחתעשרה
-Numbers 1,אחדעשר
-Numbers 1,שתייםעשרה
-Numbers 1,שנייםעשר
-Numbers 1,שלושעשרה
-Numbers 1,שלושהעשר
-Numbers 1,ארבעעשרה
-Numbers 1,ארבעהעשר
-Numbers 1,חמשעשרה
-Numbers 1,חמישהעשר
-Numbers 1,ששעשרה
-Numbers 1,שישהעשר
-Numbers 1,שבעעשרה
-Numbers 1,שבעהעשר
-Numbers 1,שמונהעשרה
-Numbers 1,שמונהעשר
-Numbers 1,תשעעשרה
-Numbers 1,תשעהעשר
+Numbers 1,אחת עשרה
+Numbers 1,אחד עשר
+Numbers 1,שתיים עשרה
+Numbers 1,שניים עשר
+Numbers 1,שלוש עשרה
+Numbers 1,שלושה עשר
+Numbers 1,ארבע עשרה
+Numbers 1,ארבעה עשר
+Numbers 1,חמש עשרה
+Numbers 1,חמישה עשר
+Numbers 1,שש עשרה
+Numbers 1,שישה עשר
+Numbers 1,שבע עשרה
+Numbers 1,שבעה עשר
+Numbers 1,שמונה עשרה
+Numbers 1,שמונה עשר
+Numbers 1,תשע עשרה
+Numbers 1,תשעה עשר
 Numbers 1,עשרים
 Numbers 1,אפס
 Questions,מה
@@ -486,16 +486,16 @@ Questions,מתי
 Questions,תשובה
 Questions,איך
 Questions,שאלה
-Questions,שלמי
+Questions,של מי
 Questions,איזה
 Questions,באיזה
 Questions,איזו
-Questions,אתמי
-Questions,עםמי
+Questions,את מי
+Questions,עם מי
 Questions,לאן
 Questions,למי
 Questions,ממי
-Questions,בשבילמה
+Questions,בשביל מה
 Questions,אילו
 Questions,לשאול
 Questions,לענוה
@@ -510,7 +510,7 @@ Determiners,כזה
 Determiners,אלו
 Determiners,כולם
 Determiners,שום
-Determiners,שוםדבר
+Determiners,שום דבר
 Determiners,מלבד
 Determiners,אחר
 Determiners,משהו
@@ -519,7 +519,7 @@ Determiners,שני
 Determiners,שתי
 Determiners,מישהו
 Determiners,דבר
-Determiners,אףאחד
+Determiners,אף אחד
 Determiners,הכל
 Determiners,אותו
 Determiners,אותה
@@ -541,10 +541,10 @@ Occupation,אמניתאמן
 Occupation,מזכירהמזכיר
 Occupation,ציירתצייר
 Occupation,שופטתשופט
-Occupation,עורךדיןעורכתדין
+Occupation,עורך דיןעורכת דין
 Occupation,פועלתפועל
 Occupation,שוטרתשוטר
-Occupation,קציןמשטרה
+Occupation,קצין משטרה
 Occupation,לעצור
 Occupation,עיתונאיתעיתונאי
 Occupation,חיילתחייל
@@ -565,30 +565,30 @@ Conjunctions,אם
 Conjunctions,אבל
 Conjunctions,כי
 Conjunctions,עדיין
-Conjunctions,בזמןש
-Conjunctions,מתיש
+Conjunctions,בזמן ש
+Conjunctions,מתי ש
 Conjunctions,גם
-Conjunctions,אףעלפיש
+Conjunctions,אף על פי ש
 Conjunctions,בגלל
 Conjunctions,רק
 Conjunctions,אז
 Conjunctions,כבר
 Conjunctions,למרות
 Conjunctions,לכן
-Conjunctions,חוץמ
+Conjunctions,חוץ מ
 Conjunctions,כש
-Conjunctions,אחריש
+Conjunctions,אחרי ש
 Conjunctions,אך
-Conjunctions,לפניש
+Conjunctions,לפני ש
 Conjunctions,אפילו
-Conjunctions,אלאאםכן
+Conjunctions,אלא אם כן
 Conjunctions,אלא
-Conjunctions,מהש
-Conjunctions,לאןש
-Conjunctions,איפהש
-Conjunctions,מיש
+Conjunctions,מה ש
+Conjunctions,לאן ש
+Conjunctions,איפה ש
+Conjunctions,מי ש
 Prepositions 2,בחוץ
-Prepositions 2,מחוץל
+Prepositions 2,מחוץ ל
 Prepositions 2,נמצא
 Prepositions 2,בפנים
 Prepositions 2,מול
@@ -599,8 +599,8 @@ Prepositions 2,על
 Prepositions 2,לפני
 Prepositions 2,מאחורי
 Prepositions 2,מתחתי
-Prepositions 2,מתחתלמים
-Prepositions 2,מתחתל
+Prepositions 2,מתחת למים
+Prepositions 2,מתחת ל
 Prepositions 2,מעל
 Prepositions 2,בלי
 Prepositions 2,בלעדי
@@ -655,17 +655,17 @@ Verbs: Present 2,לברך
 Verbs: Present 2,לתאר
 Verbs: Present 2,לתקן
 Time,היום
-Time,יוםראשון
-Time,יוםשני
-Time,יוםשלישי
-Time,יוםרביעי
+Time,יום ראשון
+Time,יום שני
+Time,יום שלישי
+Time,יום רביעי
 Time,זמן
-Time,יוםחמישי
-Time,יוםשישי
-Time,יוםשבת
+Time,יום חמישי
+Time,יום שישי
+Time,יום שבת
 Time,מחר
-Time,אחרהצהריים
-Time,כלהזמן
+Time,אחר הצהריים
+Time,כל הזמן
 Time,שעה
 Time,דקה
 Time,שבוע
@@ -679,7 +679,7 @@ Time,ינואר
 Time,פברואר
 Time,בצהריים
 Time,הערב
-Time,לוחשנה
+Time,לוח שנה
 Time,תאריך
 Time,מרץ
 Time,אפריל
@@ -698,7 +698,7 @@ Time,סתיו
 Time,קיץ
 Time,עונה
 Time,חצות
-Time,יוםהולדת
+Time,יום הולדת
 Time,תקופה
 Time,רגע
 Time,מאה
@@ -706,7 +706,7 @@ Time,קצת
 Time,עשור
 Time,עידן
 Time,תמיד
-Time,אףפעם
+Time,אף פעם
 Time,מסיבה
 Time,גיל
 Time,דור
@@ -741,7 +741,7 @@ Adjectives 2,זול
 Adjectives 2,עשיר
 Adjectives 2,פרטי
 Adjectives 2,אפשרי
-Adjectives 2,בלתיאפשרי
+Adjectives 2,בלתי אפשרי
 Adjectives 2,נהדר
 Adjectives 2,חי
 Adjectives 2,נחמד
@@ -779,32 +779,32 @@ Adverbs,כ
 Adverbs,כמו
 Adverbs,כאן
 Adverbs,די
-Adverbs,אךורק
-Adverbs,בכלזאת
-Adverbs,פעםבכמהזמן
+Adverbs,אך ורק
+Adverbs,בכל זאת
+Adverbs,פעם בכמה זמן
 Adverbs,שוב
-Adverbs,לעתיםרחוקות
+Adverbs,לעתים רחוקות
 Adverbs,ממש
 Adverbs,מפה
 Adverbs,לפעמים
 Adverbs,באמת
 Adverbs,לבד
 Adverbs,לפחות
-Adverbs,בכלאופן
+Adverbs,בכל אופן
 Adverbs,אחרת
 Adverbs,בעיקר
 Adverbs,הרחק
-Adverbs,כמותמיד
+Adverbs,כמו תמיד
 Adverbs,כרגע
-Adverbs,אחרכך
+Adverbs,אחר כך
 Adverbs,בינתיים
-Adverbs,בדרךכלל
+Adverbs,בדרך כלל
 Adverbs,בקרוב
 Adverbs,במשך
 Adverbs,מספיק
 Adverbs,בהכרח
 Adverbs,מאוחר
-Adverbs,סוףסוף
+Adverbs,סוף סוף
 Adverbs,כמעט
 Adverbs,במיוחד
 Adverbs,דרך
@@ -816,17 +816,17 @@ Adverbs,בדיוק
 Adverbs,ברור
 Adverbs,מיד
 Adverbs,דווקא
-Adverbs,בכלמקום
-Adverbs,באופןכללי
-Adverbs,סבירלהניח
+Adverbs,בכל מקום
+Adverbs,באופן כללי
+Adverbs,סביר להניח
 Adverbs,מהר
 Adverbs,ביחד
-Adverbs,באופןעצמאי
+Adverbs,באופן עצמאי
 Adverbs,לאט
 Adverbs,לאחרונה
-Adverbs,כלכך
+Adverbs,כל כך
 Adverbs,בהחלט
-Adverbs,באופןשגוי
+Adverbs,באופן שגוי
 Family,אח
 Family,אחות
 Family,בן
@@ -834,8 +834,8 @@ Family,בת
 Family,בעל
 Family,אישה
 Family,שם
-Family,שםפרטי
-Family,שםמשפחה
+Family,שם פרטי
+Family,שם משפחה
 Family,משפחה
 Family,הורה
 Family,סבא
@@ -847,14 +847,14 @@ Family,נישואין
 Family,חתן
 Family,דודה
 Family,דוד
-Family,בןדוד
-Family,בתדודה
+Family,בן דוד
+Family,בת דודה
 Family,כלה
 Family,אחיין
 Family,אחיינית
 Family,תינוק
 Family,חיים
-Family,בןבתזוג
+Family,בןבת זוג
 Home,מפתח
 Home,שולחן
 Home,כיסא
@@ -862,7 +862,7 @@ Home,בית
 Home,ספה
 Home,מיטה
 Home,שירותים
-Home,ביתספר
+Home,בית ספר
 Home,מזגן
 Home,חדר
 Home,חלון
@@ -871,7 +871,7 @@ Home,מדרגות
 Home,אמבטיה
 Home,דירה
 Home,דלת
-Home,לעבורדירה
+Home,לעבור דירה
 Home,לנקות
 Home,גג
 Home,מנורה
@@ -881,7 +881,7 @@ Home,דוד
 Home,צעצוע
 Home,קיר
 Home,שער
-Home,חדרשינה
+Home,חדר שינה
 Home,מרפסת
 Home,כלי
 Home,מרתף
@@ -894,48 +894,48 @@ Home,רהיט
 Home,מכשיר
 Home,כרית
 Home,שמיכה
-Home,עלייתגג
+Home,עליית גג
 Home,ארון
 Home,וילון
-Home,חדראורחים
+Home,חדר אורחים
 Home,תקרה
 Home,לשטוף
 Home,כלים
 Home,ברז
 Home,כיור
-Home,שואבאבק
+Home,שואב אבק
 Home,לשאוב
-Home,מכונהכביסה
+Home,מכונה כביסה
 Home,גינה
 Home,כביסה
 Home,חצר
-Home,חדראוכל
+Home,חדר אוכל
 Home,סמרטוט
 Home,אשפה
-Home,פחאשפה
+Home,פח אשפה
 Home,מקלט
 Home,שכןשכנה
 Home,מטאטא
 Home,מקרר
 Home,מעלית
-Construct State 1,חדראוכל
-Construct State 1,חדרשינה
-Construct State 1,חדראורחים
-Construct State 1,מיץתפוזים
-Construct State 1,בקבוקמים
-Construct State 1,בקבוקיין
-Construct State 1,עוגתשוקולת
-Construct State 1,עוגתגבינה
-Construct State 1,ארוחתערב
-Construct State 1,ארוחתבוקר
-Construct State 1,ארוחתצהריים
-Construct State 1,מכונתכביסה
-Construct State 1,יוםראשון
-Construct State 1,חדריהאורים
-Construct State 1,חדריהאוכל
-Construct State 1,חדרישיבה
-Construct State 1,בקבוקימים
-Construct State 1,בקבוקייין
+Construct State 1,חדר אוכל
+Construct State 1,חדר שינה
+Construct State 1,חדר אורחים
+Construct State 1,מיץ תפוזים
+Construct State 1,בקבוק מים
+Construct State 1,בקבוק יין
+Construct State 1,עוגת שוקולת
+Construct State 1,עוגת גבינה
+Construct State 1,ארוחת ערב
+Construct State 1,ארוחת בוקר
+Construct State 1,ארוחת צהריים
+Construct State 1,מכונת כביסה
+Construct State 1,יום ראשון
+Construct State 1,חדרי האורים
+Construct State 1,חדרי האוכל
+Construct State 1,חדרי שיבה
+Construct State 1,בקבוקי מים
+Construct State 1,בקבוקי יין
 Verbs: Infinitive 1,לשחות
 Verbs: Infinitive 1,להיות
 Verbs: Infinitive 1,ללכת
@@ -973,13 +973,13 @@ Verbs: Infinitive 1,למנוע
 Verbs: Infinitive 1,לברוח
 Weather,שמש
 Weather,לזרוח
-Weather,לרדתשלג
-Weather,לרדתגשם
+Weather,לרדת שלג
+Weather,לרדת גשם
 Weather,ברק
 Weather,רעם
 Weather,בהיר
-Weather,לרדתברד
-Weather,מזגאוויר
+Weather,לרדת ברד
+Weather,מזג אוויר
 Weather,לטפטף
 Weather,אובך
 Weather,סופה
@@ -988,7 +988,7 @@ Weather,גשום
 Weather,רוח
 Weather,טמפרטורה
 Weather,ענן
-Weather,גלחום
+Weather,גל חום
 Weather,הוריקן
 Weather,טורנדו
 Weather,הצפה
@@ -1002,7 +1002,7 @@ Places,שמאל
 Places,קדימה
 Places,טירה
 Places,עיר
-Places,שדהתעופה
+Places,שדה תעופה
 Places,מדינה
 Places,אחורה
 Places,רחוב
@@ -1031,30 +1031,30 @@ Places,בנק
 Places,קניון
 Places,כפר
 Places,עמק
-Places,תלאביב
+Places,תל אביב
 Places,מוזיאון
 Places,תחנה
 Places,פינה
-Places,בכלרחבי
+Places,בכל רחבי
 Places,מסלול
 Places,שדרה
 Places,שכונה
 Places,גבול
 Places,מגדל
-Places,ביתכלא
+Places,בית כלא
 Places,עיירה
-Places,ביתקולנוע
+Places,בית קולנוע
 Places,גשר
 Places,קהילה
 Places,נמל
-Places,עירבירתה
+Places,עיר בירתה
 Places,ארמון
 Places,מזרח
 Places,צפון
 Places,דרום
 Places,מערב
 Places,כיכר
-Places,גןחיות
+Places,גן חיות
 Places,שוק
 Verbs: Present 3,להראות
 Verbs: Present 3,להקשיב
@@ -1104,13 +1104,13 @@ People,ועדה
 People,אויב
 People,כנס
 People,תרבות
-People,בןאדם
+People,בן אדם
 People,קרן
 People,אוכלוסייה
 People,נוער
 People,אנשים
 People,נער
-People,מערכתיחסים
+People,מערכת יחסים
 People,פרט
 People,בחור
 People,בחורה
@@ -1139,20 +1139,20 @@ Numbers 2,שישים
 Numbers 2,שבעים
 Numbers 2,שמונים
 Numbers 2,תשעים
-Numbers 2,שנותהשבעים
+Numbers 2,שנות השבעים
 Numbers 2,כמות
 Numbers 2,מאה
 Numbers 2,מאתיים
-Numbers 2,מאות
+Numbers 2,מאות 
 Numbers 2,אלף
 Numbers 2,אלפיים
-Numbers 2,אלפים
+Numbers 2,אלפים 
 Numbers 2,מיליון
 Numbers 2,מיליארד
 Numbers 2,ממוצע
 Numbers 2,אחוז
 Numbers 2,ברובו
-Numbers 2,בסךהכל
+Numbers 2,בסך הכל
 Numbers 2,רוב
 Numbers 2,חצי
 Numbers 2,ועוד
@@ -1171,7 +1171,7 @@ Verbs: Modals,מותר
 Verbs: Modals,עלי
 Verbs: Modals,עשוי
 Verbs: Modals,אפשר
-Verbs: Modals,איאפשר
+Verbs: Modals,אי אפשר
 Education,פתק
 Education,מורה
 Education,חינוך
@@ -1181,7 +1181,7 @@ Education,שיעור
 Education,ספרייה
 Education,עיפרון
 Education,דוגמה
-Education,שיעוריבית
+Education,שיעורי בית
 Education,מבחן
 Education,לימוד
 Education,כיתה
@@ -1224,12 +1224,12 @@ Travel,סירה
 Travel,לשוט
 Travel,מטוס
 Travel,לטוס
-Travel,תחנתרכבת
+Travel,תחנת רכבת
 Travel,לנהוג
 Travel,ספינה
 Travel,להפליג
 Travel,מפה
-Travel,תיקגב
+Travel,תיק גב
 Travel,מדריך
 Travel,לנסועלטייל
 Travel,קו
@@ -1244,22 +1244,22 @@ Travel,ספרד
 Travel,יוון
 Travel,אנגליה
 Travel,גרמניה
-Travel,רכבתתחתית
+Travel,רכבת תחתית
 Travel,מסע
 Travel,ארץ
-Travel,מזרחתיכון
+Travel,מזרח תיכון
 Travel,סין
 Travel,עולם
 Travel,רוסיה
 Travel,ים
-Travel,יםתיכון
+Travel,ים תיכון
 Travel,מצרים
 Travel,תייר
 Travel,אסיה
 Travel,אמריקה
 Travel,אירופה
 Travel,יבשת
-Travel,מסביבל
+Travel,מסביב ל
 Travel,אוסטרליה
 Travel,דרכון
 Travel,אפריקה
@@ -1291,7 +1291,7 @@ Verbs: Past,נפל
 Verbs: Past,עשה
 Verbs: Past,שמע
 Verbs: Past,חשב
-Verbs: Past,מאזש
+Verbs: Past,מאז ש
 Verbs: Past,בא
 Verbs: Past,שם
 Verbs: Past,גדל
@@ -1343,10 +1343,10 @@ Objects,רדיו
 Objects,מחשב
 Objects,סוללה
 Objects,ארנק
-Objects,שולחןעבודה
-Objects,שעוןיד
+Objects,שולחן עבודה
+Objects,שעון יד
 Objects,סל
-Objects,טלפוןנייד
+Objects,טלפון נייד
 Objects,תיק
 Objects,מצע
 Objects,מסך
@@ -1398,7 +1398,7 @@ Verbs: Present Reflexive,להתגעגע
 Verbs: Present Reflexive,להסתובב
 Verbs: Present Reflexive,להתחבא
 Verbs: Present Reflexive,להשתנות
-Verbs: Present Reflexive,אחדאתהשני
+Verbs: Present Reflexive,אחד את השני
 Verbs: Present Reflexive,להשתכר
 Verbs: Present Reflexive,להתאושש
 Verbs: Present Reflexive,להצטרף
@@ -1613,10 +1613,10 @@ Languages,הונגרית
 Languages,בלשן
 Languages,בלשנות
 Languages,הינדי
-Languages,שםעצם
+Languages,שם עצם
 Languages,פועל
 Languages,יידיש
-Languages,שםתואר
+Languages,שם תואר
 Languages,אספרנטו
 Languages,לנטות
 Languages,פסיק
@@ -1624,7 +1624,7 @@ Languages,נקודה
 Languages,פסקה
 Languages,שורה
 Languages,דובר
-Languages,שפתהאם
+Languages,שפת האם
 Emergency!,כבאי
 Emergency!,לחלץ
 Emergency!,זהירות
@@ -1632,11 +1632,11 @@ Emergency!,הצילו
 Emergency!,עזרה
 Emergency!,חילוץ
 Emergency!,חובש
-Emergency!,מקרהחירום
+Emergency!,מקרה חירום
 Emergency!,לכוד
 Emergency!,לבצע
 Emergency!,החייאה
-Emergency!,מגןדודאדום
+Emergency!,מגן דוד אדום
 Emergency!,פצוע
 Emergency!,תאונה
 Emergency!,הכרה
@@ -1648,7 +1648,7 @@ Emergency!,להתחשמל
 Emergency!,מסוכן
 Emergency!,לטבוע
 Emergency!,לנפול
-Emergency!,עזרהראשונה
+Emergency!,עזרה ראשונה
 Emergency!,אזעקה
 Emergency!,מקלט
 Passive,רצוי
@@ -1688,16 +1688,16 @@ Passive,מוגבל
 Passive,מושפע
 Passive,מוחלט
 Passive,מוסבר
-Reflexive Pronouns,עצמי
-Reflexive Pronouns,עצמך
-Reflexive Pronouns,עצמך
-Reflexive Pronouns,עצמו
-Reflexive Pronouns,עצמה
-Reflexive Pronouns,עצמנו
-Reflexive Pronouns,עצמכם
-Reflexive Pronouns,עצמכן
-Reflexive Pronouns,עצמם
-Reflexive Pronouns,עצמן
+Reflexive Pronouns,עצמי 
+Reflexive Pronouns,עצמך 
+Reflexive Pronouns,עצמך 
+Reflexive Pronouns,עצמו 
+Reflexive Pronouns,עצמה 
+Reflexive Pronouns,עצמנו 
+Reflexive Pronouns,עצמכם 
+Reflexive Pronouns,עצמכן 
+Reflexive Pronouns,עצמם 
+Reflexive Pronouns,עצמן 
 Nif'al,נכשל
 Nif'al,נראה
 Nif'al,נגמר
@@ -1705,7 +1705,7 @@ Nif'al,נשמע
 Nif'al,קודם
 Nif'al,נכנס
 Nif'al,נאכל
-Nif'al,עלידי
+Nif'al,על ידי
 Nif'al,נכתב
 Nif'al,נסגר
 Nif'al,נפתח
@@ -1731,7 +1731,7 @@ Nature,ים
 Nature,שמים
 Nature,דשא
 Nature,שיח
-Nature,יםהתיכון
+Nature,ים התיכון
 Nature,אבן
 Nature,כוכב
 Nature,חול
@@ -1740,9 +1740,9 @@ Nature,שדה
 Nature,אוויר
 Nature,ירח
 Nature,טבע
-Nature,כוכבלכת
+Nature,כוכב לכת
 Nature,חלל
-Nature,כדורארץ
+Nature,כדור ארץ
 Nature,נילוס
 Nature,נהר
 Nature,אדמה
@@ -1761,7 +1761,7 @@ Nature,חומר
 Nature,צמח
 Nature,יבול
 Nature,מדבר
-Nature,הרגעש
+Nature,הר געש
 Nature,מערה
 Nature,קרח
 Nature,גבעה
@@ -1868,12 +1868,12 @@ Feelings,פסימי
 Feelings,מופתע
 Feelings,רגשה
 Feelings,רגוע
-Feelings,מצטערלהצטער
+Feelings,  מצטער להצטער
 Feelings,נעלב
 Feelings,מצפה
 Feelings,הלם
 Feelings,מביך
-Feelings,חסראונים
+Feelings,חסר אונים
 Feelings,עוין
 Feelings,דחוי
 Feelings,פגוע
@@ -1914,14 +1914,14 @@ Geometry,נפח
 Geometry,סרגל
 Geometry,מילימטר
 Geometry,קילומטר
-Geometry,יחידתמידה
+Geometry,יחידת מידה
 Geometry,סנטימטר
 Geometry,למדוד
 Abstract Objects 2,כבוד
 Abstract Objects 2,תועלת
 Abstract Objects 2,רשות
 Abstract Objects 2,מאמץ
-Abstract Objects 2,תשומתלב
+Abstract Objects 2,תשומת לב
 Abstract Objects 2,אופי
 Abstract Objects 2,כיוון
 Abstract Objects 2,סוד
@@ -2003,29 +2003,29 @@ Verbs: Infinitive 2,להחמיץ
 Verbs: Infinitive 2,לחשוב
 Verbs: Infinitive 2,לאהוב
 Verbs: Infinitive 2,לסרב
-Construct State 2,כלינשק
-Construct State 2,עלייתגג
-Construct State 2,שטיפתמוח
-Construct State 2,פסקתאוכל
-Construct State 2,שומרראש
-Construct State 2,חגורתבטיחות
-Construct State 2,תולעתספרים
-Construct State 2,ראשממשלה
-Construct State 2,ביתמלאכה
-Construct State 2,מגדלשמירה
-Construct State 2,פנייתפרסה
-Construct State 2,נהגמורית
-Construct State 2,פסקזמן
-Construct State 2,שעוןעצר
-Construct State 2,מברשתשיניים
-Construct State 2,סכיןגילוח
-Construct State 2,טיבהדואר
-Construct State 2,אוצרמילים
-Construct State 2,משחתשיניים
-Construct State 2,ארגזכלים
-Construct State 2,משרדראשממשלה
-Construct State 2,עוגתיוםהולדת
-Construct State 2,חלוןחדראורחים
+Construct State 2,כלי נשק
+Construct State 2,עליית גג
+Construct State 2,שטיפת מוח
+Construct State 2,פסקת אוכל
+Construct State 2,שומר ראש
+Construct State 2,חגורת בטיחות
+Construct State 2,תולעת ספרים
+Construct State 2,ראש ממשלה
+Construct State 2,בית מלאכה
+Construct State 2,מגדל שמירה
+Construct State 2,פניית פרסה
+Construct State 2,נהג מורית
+Construct State 2,פסק זמן
+Construct State 2,שעון עצר
+Construct State 2,מברשת שיניים
+Construct State 2,סכין גילוח
+Construct State 2,טיבה דואר
+Construct State 2,אוצר מילים
+Construct State 2,משחת שיניים
+Construct State 2,ארגז כלים
+Construct State 2,משרד ראש ממשלה
+Construct State 2,עוגת יום הולדת
+Construct State 2,חלון חדר אורחים
 Verbs: Conditional,לו
 Verbs: Conditional,אילו
 Verbs: Conditional,הייתי
@@ -2047,7 +2047,7 @@ Medical,ראש
 Medical,אוזן
 Medical,אצבע
 Medical,צוואר
-Medical,כףיד
+Medical,כף יד
 Medical,בטן
 Medical,כואב
 Medical,מרפק
@@ -2061,7 +2061,7 @@ Medical,פה
 Medical,גב
 Medical,שן
 Medical,גוף
-Medical,כףרגל
+Medical,כף רגל
 Medical,אף
 Medical,עצם
 Medical,רגל
@@ -2074,7 +2074,7 @@ Medical,איבר
 Medical,מחלה
 Medical,מטופל
 Medical,מטופלת
-Medical,ביתהחולים
+Medical,בית החולים
 Medical,גולגולת
 Medical,חולה
 Medical,לחץ
@@ -2089,7 +2089,7 @@ Medical,טיפול
 Medical,לידה
 Medical,הריון
 Medical,בהריון
-Medical,רפואהשלמה
+Medical,רפואה שלמה
 Medical,ניתוח
 Medical,דיאטה
 Medical,בריאות
@@ -2117,15 +2117,15 @@ Religion,נשמה
 Religion,אסלאם
 Religion,נצרות
 Religion,מקדש
-Religion,הרהזיתים
-Religion,הרהבית
-Religion,עירהעתיקה
-Religion,מערתהמכפלה
-Religion,כותלהמערבי
-Religion,כנסייתהקבר
-Religion,מסגדאלאקצה
-Religion,כיפתהסלע
-Religion,הרהציון
+Religion,הר הזיתים
+Religion,הר הבית
+Religion,עיר העתיקה
+Religion,מערת המכפלה
+Religion,כותל המערבי
+Religion,כנסיית הקבר
+Religion,מסגד אלאקצה
+Religion,כיפת הסלע
+Religion,הר הציון
 Arts,אמנות
 Arts,סרט
 Arts,סגנון
@@ -2155,19 +2155,19 @@ Arts,תסריט
 Arts,אפקט
 Arts,אולפן
 Technology,סיסמה
-Technology,בסיסנתונים
+Technology,בסיס נתונים
 Technology,נתונים
 Technology,דפדפן
 Technology,חיפוש
 Technology,אינטרנט
-Technology,עמודבית
+Technology,עמוד בית
 Technology,אתר
 Technology,מקלדת
 Technology,מתכנת
 Technology,קובץ
 Technology,חומרה
 Technology,באג
-Technology,מחשהנייד
+Technology,מחשה נייד
 Technology,תוכנה
 Technology,מייל
 Technology,להוריד
@@ -2231,14 +2231,14 @@ Science,הפצה
 Science,עיקרון
 Science,מעבדה
 Science,מחצב
-Science,מדחום
-Science,נוסחאנוסחה
+Science,מד חום
+Science,נוסחא  נוסחה
 Science,איכות
 Science,כימיה
 Science,גיאוגרפיה
 Science,פיזיקה
 Science,פילוסופיה
-Science,תוארראשון
+Science,תואר ראשון
 Science,גנטיקה
 Science,ביולוגיה
 Science,חשמלי
@@ -2250,7 +2250,7 @@ Science,תגלית
 Science,עובדה
 Science,להנמיך
 Science,להגביר
-Science,כוחמשיכה
+Science,כוח משיכה
 Science,סיבה
 Science,תיאוריה
 Science,אלקוהול
@@ -2268,7 +2268,7 @@ Music,זמר
 Music,חליל
 Music,נבל
 Music,פסנתר
-Music,כלינגירה
+Music,כלי נגירה
 Music,תוף
 Music,סינתיסייזר
 Music,יזירה
@@ -2293,7 +2293,7 @@ Music,מנגירה
 Music,לכוון
 Music,מנצח
 Music,צליל
-Music,יםתיכוני
+Music,ים תיכוני
 Music,מפוחית
 Music,סולם
 Sports,כדור
@@ -2312,8 +2312,8 @@ Sports,נקודה
 Sports,תיקו
 Sports,מחבט
 Sports,מדליית
-Sports,מדלייתארד
-Sports,מדלייתזהר
+Sports,מדליית ארד
+Sports,מדליית זהר
 Sports,אלוף
 Sports,שלושער
 Sports,אליפות
@@ -2322,7 +2322,7 @@ Sports,כדורעף
 Sports,מגרש
 Sports,צעד
 Sports,לאהוד
-Sports,מכוןכושר
+Sports,מכון כושר
 Sports,בעיטה
 Sports,פנדל
 Sports,מרתון
@@ -2367,7 +2367,7 @@ Politics,קונגרס
 Politics,קמפיין
 Politics,אלימות
 Politics,מעצר
-Politics,מעצרבית
+Politics,מעצר בית
 Politics,שחיתות
 Politics,כנסת
 Politics,שוחד
@@ -2379,13 +2379,13 @@ Politics,עושר
 Politics,מפלגה
 Politics,איום
 Politics,שביתה
-Politics,ראשעיר
+Politics,ראש עיר
 Politics,אשמה
-Politics,משרדביטחון
-Politics,משרדחוץ
-Politics,משרדפנים
-Politics,משרדאוצר
-Politics,משרדמשפטים
+Politics,משרד ביטחון
+Politics,משרד חוץ
+Politics,משרד פנים
+Politics,משרד אוצר
+Politics,משרד משפטים
 Politics,שרשרה
 Diminutive,כלבלב
 Diminutive,אדמדם
@@ -2436,8 +2436,8 @@ Legends,קוסם
 Legends,קללה
 Legends,משרת
 Legends,יצור
-Legends,אישזאב
-Legends,גיבורעל
+Legends,איש זאב
+Legends,גיבור על
 Legends,גולם
 Legends,ערפד
 Legends,זומבי
@@ -2450,14 +2450,14 @@ Formal,מאין
 Formal,נא
 Formal,גברתי
 Formal,אדוני
-Formal,מה
+Formal,מה 
 Formal,אשר
 Formal,הבה
 Formal,אנא
 Formal,מאשר
-Formal,אינ
-Formal,ה
-Formal,כי
+Formal,אינ 
+Formal, ה     
+Formal,כי     
 Business,דולר
 Business,כסף
 Business,שקל
@@ -2469,7 +2469,7 @@ Business,זהב
 Business,עסק
 Business,מחיר
 Business,אגורה
-Business,כרטיסאשראי
+Business,כרטיס אשראי
 Business,כרטיס
 Business,עודף
 Business,אירו
@@ -2497,51 +2497,51 @@ Business,תעשיית
 Business,בורסה
 Business,סוכן
 Business,סיכון
-Business,שערחליפין
-Space,כוכבלכת
-Space,מערכתשמש
+Business,שער חליפין
+Space,כוכב לכת
+Space,מערכת שמש
 Space,מאדים
 Space,שבתאי
 Space,צדק
-Space,כוכבחמה
+Space,כוכב חמה
 Space,נוגה
 Space,מעבורת
 Space,אסטרונאוט
-Space,תחנתחללבןלאומית
+Space,תחנת חלל בןלאומית
 Space,חללית
 Space,גשושית
 Space,לוויין
 Space,שיגור
 Space,מטאור
-Space,חורשחור
+Space,חור שחור
 Space,מסלול
-Space,שבילחלב
+Space,שביל חלב
 Space,גלקסיה
 Space,מכתש
 Space,ליקוי
 Festivals,מצה
 Festivals,שבועות
 Festivals,חג
-Festivals,לילסדר
+Festivals,ליל סדר
 Festivals,לחגוג
-Festivals,יציאתמצרים
+Festivals,יציאת מצרים
 Festivals,פסח
-Festivals,שמחתתורה
-Festivals,ראשהשנה
-Festivals,הימיםהנוראים
-Festivals,יוםכיפור
+Festivals,שמחת תורה
+Festivals,ראש השנה
+Festivals,הימים הנוראים
+Festivals,יום כיפור
 Festivals,סוכות
 Festivals,סוכה
-Festivals,תשעהבאב
+Festivals,תשעה באב
 Festivals,צום
-Festivals,משלוחמנות
+Festivals,משלוח מנות
 Festivals,סביבון
 Festivals,חנוכה
 Festivals,חנוכייה
 Festivals,פורים
-Festivals,אוזןהמן
+Festivals,אוזן המן
 Festivals,סופגניה
-Festivals,טובשבט
+Festivals,טו בשבט
 Israel,מטקות
 Israel,קיבוץ
 Israel,עולים
@@ -2553,12 +2553,12 @@ Israel,פיתה
 Israel,מזרחית
 Israel,בלאגן
 Israel,חומוס
-Israel,עלהאש
-Israel,יוםעצמאות
-Israel,יםאדום
+Israel,על האש
+Israel,יום עצמאות
+Israel,ים אדום
 Israel,חיפה
 Israel,כנרת
-Israel,יםמלח
+Israel,ים מלח
 Israel,חופשה
 Israel,אילת
 Israel,נגב
@@ -2566,6 +2566,6 @@ Israel,מצדה
 Israel,במבה
 Israel,טבריה
 Israel,שקשוקה
-Israel,עגבניהשרי
+Israel,עגבניה שרי
 Israel,קיסריה
 Israel,ביסלי

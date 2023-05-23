@@ -63,8 +63,7 @@ def get_words_from_lessons(url):
                     word = li.text.split('=')[0].strip()
 
                     # Remove non-Hebrew characters
-                    word = re.sub('[^א-ת]', '', word)
-                    # Add the word to the list
+                    word = re.sub('[^א-ת ]', '', word)
                     words.append(word)
 
     return words
@@ -76,7 +75,7 @@ skills = ['Letters 1', 'Letters 2', 'Letters 3', 'Phrases', 'Basics', 'There is'
 skill_links = get_skill_links(base_url + '/wiki/Hebrew', skills)
 
 # Open a CSV file in write mode
-with open('hebrew_words.csv', 'w', newline='', encoding='utf-8') as file:
+with open('Source_Wiki.csv', 'w', newline='', encoding='utf-8') as file:
     # Initialize a CSV writer
     writer = csv.writer(file)
 
