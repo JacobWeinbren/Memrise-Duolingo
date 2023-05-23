@@ -21,8 +21,8 @@ def get_transcriptions(word):
             form_transcription = verb.find('div', class_='vf-search-hebrew').find('span', class_='transcription').text
 
             # Clean up and add word and transcription to the dictionary
-            cleaned_word = word.replace('־', '').replace('(', '').replace(')', '').replace('\u200f', '')
-            cleaned_transcription = form_transcription.replace('-', '').replace('(', '').replace(')', '')
+            cleaned_word = word.replace('־', '').replace('(', '').replace(')', '').replace('\u200f', '').replace('!','')
+            cleaned_transcription = form_transcription.replace('-', '').replace('(', '').replace(')', '').replace('!','')
             words_transcriptions[cleaned_word] = cleaned_transcription
 
             # Request the conjugation page
@@ -39,8 +39,8 @@ def get_transcriptions(word):
                         transcription = column.find('div', class_='transcription').text
 
                         # Clean up and add conjugation and transcription to the dictionary
-                        cleaned_word = word.replace('־', '').replace('(', '').replace(')', '').replace('\u200f', '')
-                        cleaned_transcription = transcription.replace('-', '').replace('(', '').replace(')', '')
+                        cleaned_word = word.replace('־', '').replace('(', '').replace(')', '').replace('\u200f', '').replace('!','')
+                        cleaned_transcription = transcription.replace('-', '').replace('(', '').replace(')', '').replace('!','')
                         words_transcriptions[cleaned_word] = cleaned_transcription
 
         return words_transcriptions
