@@ -6,7 +6,7 @@ url = 'https://api.rosette.com/rest/v1/name-translation'
 
 # Headers for the API request
 headers = {
-    "X-RosetteAPI-Key": "a700fce28a5082960ceb2d3a44568ccf",
+    "X-RosetteAPI-Key": ""
     "Content-Type": "application/json",
     "Accept": "application/json",
     "Cache-Control": "no-cache"
